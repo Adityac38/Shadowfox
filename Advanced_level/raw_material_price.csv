@@ -1,0 +1,5001 @@
+Raw_Material,Price
+Soy Sauce,86.96
+Chicken,301.75
+Beans,477.69
+Paneer,86.93
+Cauliflower,448.55
+Butter,462.67
+Chili Powder,114.89
+Mushroom,14.67
+Sugar,118.91
+Mayonnaise,314.46
+Broccoli,31.89
+Oregano,86.75
+Egg,264.72
+Milk,378.83
+Garlic,315.65
+Ginger,214.5
+Mint Leaves,109.74
+Vinegar,21.76
+Mushroom,490.8
+Cardamom,480.71
+Bread,155.45
+Milk,223.04
+Lentils,130.89
+Salt,462.28
+Ginger,20.96
+Paneer,426.8
+Tomato Sauce,197.15
+Lemon,352.17
+Oil,126.37
+Curd,124.87
+Tomato Sauce,270.6
+Spices Mix,310.24
+Cardamom,133.16
+Cabbage,289.09
+Parsley,227.6
+Green Chili,383.99
+Bread,274.34
+Rice,413.48
+Vinegar,282.43
+Beans,259.63
+Basil,438.24
+Sugar,328.59
+Turmeric,164.8
+Fish,254.16
+Bread,357.63
+Lentils,466.26
+Soy Sauce,194.76
+Curd,149.31
+Lentils,91.14
+Spinach,374.05
+Green Chili,129.56
+Garlic,455.02
+Cabbage,105.99
+Butter,37.97
+Cardamom,303.05
+Oil,440.94
+Oil,363.11
+Salt,228.63
+Salt,81.52
+Milk,339.74
+Black Pepper,365.76
+Peas,42.93
+Cheese,219.98
+Fish,218.49
+Turmeric,281.6
+Curd,38.1
+Ginger,143.02
+Garlic,425.22
+Cheese,250.11
+Peas,218.46
+Black Pepper,283.02
+Coriander,22.68
+Mustard Seeds,279.29
+Mayonnaise,229.82
+Paneer,378.42
+Mayonnaise,360.84
+Tomato Sauce,61.66
+Basil,105.86
+Milk,368.56
+Soy Sauce,398.91
+Oregano,265.85
+Salt,381.96
+Basil,390.24
+Mushroom,257.5
+Basil,496.11
+Cinnamon,208.4
+Flour,459.4
+Mushroom,18.04
+Flour,256.83
+Potato,424.3
+Ginger,41.86
+Cumin,29.31
+Peas,91.76
+Tomato,497.44
+Paneer,478.23
+Broccoli,393.59
+Capsicum,499.08
+Mayonnaise,435.4
+Curd,58.73
+Mint Leaves,186.63
+Cheese,15.63
+Bread,373.42
+Milk,104.36
+Onion,31.69
+Oil,293.28
+Green Chili,52.72
+Mushroom,212.2
+Cauliflower,84.14
+Mayonnaise,210.9
+Mustard Seeds,100.26
+Cardamom,365.62
+Garlic,492.06
+Paneer,483.92
+Black Pepper,83.0
+Beans,412.66
+Green Chili,62.71
+Beef,373.57
+Paneer,449.12
+Tomato Sauce,258.65
+Cheese,59.31
+Turmeric,323.64
+Basil,315.04
+Onion,41.47
+Capsicum,457.46
+Salt,487.26
+Carrot,466.13
+Capsicum,52.85
+Flour,424.1
+Paneer,390.77
+Milk,22.91
+Curd,313.79
+Cinnamon,456.7
+Ginger,302.34
+Paneer,92.13
+Cheese,258.3
+Chili Powder,130.76
+Beef,303.98
+Basil,11.88
+Garlic,342.7
+Vinegar,110.67
+Tomato,29.48
+Fish,351.41
+Cabbage,331.13
+Fish,282.5
+Mustard Seeds,361.9
+Bread,489.33
+Chicken,143.18
+Vinegar,169.29
+Cheese,418.06
+Soy Sauce,395.37
+Mayonnaise,341.22
+Soy Sauce,124.95
+Vinegar,128.45
+Fish,261.8
+Bread,40.95
+Green Chili,360.24
+Basil,213.76
+Paneer,263.58
+Curd,257.43
+Basil,372.03
+Tomato,165.26
+Cauliflower,232.24
+Spices Mix,40.07
+Basil,303.52
+Cheese,451.5
+Lentils,478.99
+Curd,41.28
+Potato,38.8
+Chicken,183.34
+Fish,170.47
+Rice,267.4
+Lemon,352.26
+Onion,247.89
+Lentils,421.47
+Cauliflower,198.85
+Lemon,261.8
+Black Pepper,48.33
+Carrot,313.92
+Tomato,243.74
+Coriander,353.73
+Rice,160.56
+Ginger,364.44
+Tomato Sauce,39.22
+Mustard Seeds,48.17
+Turmeric,73.94
+Tomato,292.84
+Cauliflower,274.0
+Parsley,442.73
+Peas,39.66
+Oil,43.25
+Bread,421.67
+Paneer,180.25
+Cabbage,348.91
+Black Pepper,244.56
+Lentils,143.01
+Mushroom,284.07
+Chicken,175.28
+Bread,495.94
+Butter,122.79
+Beans,271.17
+Milk,470.72
+Green Chili,118.56
+Spices Mix,141.35
+Mayonnaise,301.68
+Garlic,192.68
+Cheese,249.55
+Flour,256.24
+Mustard Seeds,99.78
+Mayonnaise,103.89
+Carrot,302.39
+Lemon,134.97
+Garlic,462.97
+Spices Mix,154.71
+Lentils,444.98
+Cabbage,433.82
+Mushroom,173.94
+Lemon,30.46
+Cheese,62.61
+Cabbage,178.83
+Lentils,496.29
+Milk,453.75
+Cinnamon,428.3
+Potato,139.99
+Tomato,478.55
+Mayonnaise,177.65
+Chicken,301.39
+Mint Leaves,43.8
+Curd,126.95
+Curd,204.92
+Butter,493.1
+Beans,348.01
+Soy Sauce,143.71
+Mushroom,389.62
+Spices Mix,83.56
+Ginger,15.29
+Egg,114.66
+Paneer,279.4
+Cloves,228.47
+Cloves,280.22
+Spinach,201.8
+Flour,397.84
+Flour,491.67
+Milk,446.87
+Beans,84.87
+Green Chili,134.72
+Milk,223.64
+Chicken,332.03
+Basil,145.53
+Cheese,233.67
+Chicken,295.31
+Oregano,295.99
+Beans,458.69
+Potato,54.85
+Bread,342.42
+Cheese,364.56
+Basil,385.82
+Potato,463.2
+Mustard Seeds,441.78
+Basil,364.27
+Beans,466.08
+Oregano,91.15
+Turmeric,439.5
+Cabbage,228.49
+Cinnamon,312.11
+Flour,305.64
+Salt,124.7
+Mayonnaise,65.79
+Tomato,232.32
+Potato,357.78
+Cheese,442.52
+Mayonnaise,258.19
+Cumin,430.78
+Cabbage,476.4
+Mushroom,303.68
+Beans,485.18
+Tomato Sauce,381.81
+Fish,413.61
+Onion,90.99
+Cardamom,39.47
+Cheese,453.99
+Beef,42.87
+Lentils,327.2
+Mushroom,450.93
+Flour,17.67
+Vinegar,242.33
+Milk,483.19
+Paneer,452.08
+Curd,246.4
+Spices Mix,457.39
+Egg,344.38
+Cumin,192.73
+Milk,121.64
+Turmeric,279.81
+Ginger,316.46
+Carrot,435.1
+Green Chili,29.21
+Turmeric,308.58
+Cinnamon,342.95
+Beef,250.28
+Mushroom,155.82
+Butter,76.06
+Paneer,89.18
+Salt,133.01
+Cheese,268.68
+Vinegar,439.23
+Cumin,393.99
+Cumin,152.89
+Chicken,250.71
+Curd,115.38
+Carrot,34.15
+Turmeric,52.33
+Oregano,163.74
+Spinach,461.14
+Milk,41.19
+Turmeric,484.79
+Sugar,344.04
+Turmeric,61.93
+Onion,399.75
+Egg,264.84
+Potato,24.63
+Parsley,438.55
+Green Chili,365.88
+Rice,149.42
+Bread,488.61
+Potato,247.32
+Capsicum,116.2
+Basil,89.84
+Capsicum,82.31
+Soy Sauce,416.71
+Rice,391.8
+Paneer,168.85
+Green Chili,180.59
+Garlic,206.63
+Sugar,455.31
+Cardamom,71.55
+Cauliflower,39.42
+Broccoli,126.39
+Sugar,330.39
+Spices Mix,320.48
+Cheese,470.24
+Peas,344.52
+Flour,194.37
+Tomato,111.42
+Cloves,242.28
+Broccoli,368.11
+Beef,130.88
+Black Pepper,181.79
+Sugar,214.3
+Paneer,342.91
+Tomato Sauce,314.97
+Cloves,348.11
+Chili Powder,111.25
+Cardamom,136.54
+Tomato Sauce,363.33
+Tomato,249.21
+Cumin,15.26
+Mustard Seeds,397.09
+Tomato,102.26
+Carrot,101.69
+Milk,406.62
+Mayonnaise,494.36
+Cardamom,341.55
+Mushroom,105.65
+Beans,427.39
+Milk,259.91
+Cheese,493.12
+Cumin,392.97
+Mint Leaves,193.44
+Mustard Seeds,442.3
+Flour,143.36
+Rice,92.46
+Flour,15.18
+Oil,418.8
+Lentils,242.87
+Chicken,229.0
+Potato,226.56
+Cardamom,146.49
+Basil,131.76
+Mustard Seeds,293.46
+Vinegar,43.89
+Tomato Sauce,105.16
+Curd,176.3
+Turmeric,462.43
+Cumin,87.67
+Garlic,145.19
+Flour,461.26
+Paneer,248.0
+Rice,273.38
+Sugar,167.93
+Cabbage,412.42
+Tomato Sauce,250.57
+Curd,292.57
+Chicken,427.59
+Egg,223.18
+Rice,453.27
+Garlic,345.04
+Rice,337.62
+Cloves,250.3
+Lentils,204.79
+Capsicum,259.53
+Chicken,95.87
+Egg,414.85
+Fish,138.61
+Broccoli,373.96
+Spices Mix,187.39
+Egg,116.76
+Cabbage,326.03
+Spinach,419.2
+Rice,285.77
+Milk,23.66
+Onion,258.32
+Lemon,186.67
+Cinnamon,261.19
+Soy Sauce,220.87
+Capsicum,418.73
+Egg,176.82
+Capsicum,57.53
+Cardamom,378.69
+Tomato,334.55
+Mushroom,252.05
+Beans,247.45
+Fish,143.11
+Butter,237.45
+Cauliflower,66.71
+Potato,274.34
+Milk,192.23
+Spinach,491.47
+Cloves,194.44
+Spices Mix,245.38
+Soy Sauce,302.3
+Butter,188.44
+Cauliflower,34.39
+Butter,457.37
+Carrot,287.48
+Tomato,403.2
+Cauliflower,138.98
+Vinegar,327.06
+Beans,378.87
+Cheese,353.02
+Chicken,493.36
+Ginger,436.28
+Cinnamon,181.23
+Mint Leaves,170.51
+Garlic,394.75
+Cloves,451.05
+Mint Leaves,271.91
+Mustard Seeds,470.37
+Mayonnaise,77.31
+Potato,346.55
+Garlic,474.98
+Milk,315.7
+Beans,349.78
+Rice,333.47
+Paneer,308.29
+Carrot,234.32
+Garlic,131.62
+Spices Mix,160.86
+Onion,204.26
+Fish,490.04
+Black Pepper,195.79
+Carrot,212.93
+Cardamom,168.15
+Bread,232.42
+Ginger,73.7
+Beef,385.83
+Butter,461.71
+Broccoli,466.13
+Soy Sauce,474.84
+Ginger,498.96
+Black Pepper,383.85
+Turmeric,384.32
+Mushroom,438.34
+Cloves,268.09
+Mushroom,257.18
+Cumin,354.07
+Flour,327.85
+Lentils,48.48
+Tomato,434.12
+Cumin,80.84
+Cabbage,465.54
+Rice,201.75
+Butter,124.52
+Onion,358.73
+Onion,136.62
+Sugar,295.15
+Cauliflower,290.25
+Spices Mix,161.12
+Cardamom,311.2
+Mint Leaves,396.0
+Parsley,136.96
+Butter,82.86
+Cauliflower,305.85
+Salt,300.67
+Oregano,122.52
+Spinach,23.74
+Spices Mix,428.58
+Milk,436.07
+Carrot,381.08
+Cloves,327.63
+Black Pepper,444.64
+Peas,42.1
+Turmeric,156.95
+Oregano,433.1
+Potato,186.98
+Chicken,334.9
+Spinach,147.03
+Green Chili,140.89
+Beef,179.44
+Basil,29.28
+Cheese,230.78
+Bread,326.63
+Mustard Seeds,126.73
+Mustard Seeds,354.55
+Cumin,483.91
+Cumin,163.95
+Mint Leaves,280.43
+Curd,425.63
+Black Pepper,348.57
+Flour,383.34
+Chili Powder,422.64
+Chicken,280.55
+Broccoli,81.68
+Lentils,28.43
+Lentils,250.25
+Cauliflower,96.75
+Lentils,268.66
+Cheese,191.41
+Mustard Seeds,362.18
+Beans,114.79
+Cardamom,374.81
+Cardamom,345.29
+Cardamom,170.21
+Salt,301.04
+Tomato,277.67
+Cinnamon,470.73
+Curd,58.78
+Mint Leaves,475.09
+Beef,428.11
+Onion,190.66
+Vinegar,476.83
+Paneer,311.78
+Black Pepper,488.86
+Green Chili,105.92
+Cloves,267.6
+Tomato,131.56
+Cheese,360.2
+Lentils,127.31
+Soy Sauce,292.82
+Tomato,261.12
+Milk,330.59
+Black Pepper,484.34
+Milk,140.93
+Carrot,39.11
+Lentils,327.02
+Cloves,239.71
+Coriander,448.62
+Broccoli,377.56
+Vinegar,57.42
+Soy Sauce,346.19
+Egg,154.55
+Fish,339.12
+Cinnamon,318.2
+Mayonnaise,207.58
+Sugar,120.29
+Mayonnaise,113.2
+Lentils,467.85
+Broccoli,139.69
+Paneer,481.45
+Rice,104.32
+Oil,76.22
+Spices Mix,171.81
+Chili Powder,67.63
+Oregano,200.23
+Cardamom,243.15
+Bread,191.25
+Potato,220.19
+Mint Leaves,99.28
+Coriander,269.9
+Basil,199.33
+Soy Sauce,286.57
+Cumin,277.95
+Turmeric,339.61
+Mayonnaise,333.99
+Capsicum,336.68
+Sugar,81.67
+Salt,417.9
+Salt,284.68
+Broccoli,162.01
+Bread,317.33
+Chili Powder,353.63
+Vinegar,363.43
+Tomato Sauce,83.03
+Garlic,28.76
+Cabbage,147.79
+Cinnamon,26.3
+Tomato,316.86
+Paneer,444.05
+Broccoli,236.53
+Cheese,15.18
+Rice,21.52
+Bread,18.3
+Lentils,92.6
+Capsicum,94.49
+Oil,464.34
+Basil,499.08
+Tomato Sauce,293.7
+Oregano,17.3
+Cheese,190.58
+Oregano,369.67
+Chicken,333.26
+Cheese,339.23
+Butter,68.21
+Chicken,332.17
+Fish,321.87
+Paneer,438.92
+Peas,20.81
+Broccoli,283.03
+Rice,435.07
+Cardamom,337.47
+Bread,487.33
+Soy Sauce,287.67
+Paneer,371.15
+Turmeric,288.77
+Spices Mix,23.81
+Sugar,153.47
+Cumin,418.92
+Vinegar,90.32
+Curd,320.06
+Soy Sauce,62.69
+Carrot,372.95
+Mushroom,157.03
+Beef,32.69
+Cheese,298.35
+Cheese,330.13
+Mushroom,100.65
+Spinach,293.62
+Curd,116.97
+Parsley,34.07
+Beef,120.64
+Turmeric,118.38
+Salt,104.27
+Cloves,227.69
+Tomato,441.83
+Garlic,290.11
+Parsley,317.29
+Capsicum,241.86
+Onion,117.46
+Salt,427.39
+Oil,467.86
+Bread,492.79
+Cheese,411.29
+Spices Mix,344.31
+Peas,180.86
+Coriander,45.47
+Carrot,184.35
+Spinach,159.97
+Sugar,99.59
+Lentils,147.27
+Milk,437.3
+Tomato Sauce,32.89
+Cloves,137.06
+Tomato,436.12
+Basil,498.73
+Green Chili,444.2
+Potato,431.99
+Spinach,134.75
+Mayonnaise,470.74
+Turmeric,349.92
+Lemon,212.73
+Bread,176.29
+Cauliflower,235.13
+Cabbage,273.3
+Tomato,67.63
+Garlic,211.89
+Spinach,259.24
+Green Chili,282.03
+Mushroom,246.72
+Mustard Seeds,206.49
+Coriander,458.86
+Cauliflower,372.38
+Soy Sauce,199.41
+Cheese,199.87
+Cauliflower,458.06
+Mustard Seeds,391.33
+Oil,41.38
+Mint Leaves,88.55
+Tomato Sauce,101.23
+Mustard Seeds,265.83
+Peas,462.64
+Cauliflower,37.67
+Mustard Seeds,26.2
+Broccoli,233.6
+Flour,369.48
+Cinnamon,151.16
+Cabbage,339.07
+Onion,277.53
+Mayonnaise,62.15
+Cardamom,298.12
+Peas,138.82
+Spinach,78.96
+Lentils,432.35
+Tomato Sauce,220.9
+Fish,284.09
+Salt,322.75
+Beans,289.53
+Parsley,250.36
+Basil,65.9
+Bread,223.49
+Oregano,447.08
+Cheese,235.75
+Beans,419.85
+Butter,329.75
+Cheese,345.67
+Chili Powder,356.42
+Paneer,475.72
+Bread,207.59
+Curd,242.2
+Basil,119.56
+Curd,399.62
+Tomato,379.77
+Chili Powder,498.11
+Beans,49.85
+Cauliflower,421.42
+Lemon,65.86
+Tomato,229.01
+Cinnamon,129.95
+Oregano,323.63
+Cardamom,319.3
+Potato,457.68
+Coriander,499.85
+Peas,313.14
+Chili Powder,223.76
+Butter,83.7
+Salt,439.11
+Parsley,108.28
+Mayonnaise,86.7
+Chicken,226.67
+Flour,156.42
+Vinegar,242.84
+Mayonnaise,237.9
+Parsley,199.87
+Cheese,379.15
+Cumin,230.64
+Vinegar,271.05
+Turmeric,342.06
+Basil,341.84
+Butter,376.24
+Mushroom,349.03
+Rice,98.95
+Sugar,275.41
+Curd,77.15
+Coriander,415.41
+Spinach,430.67
+Cloves,416.97
+Spices Mix,21.78
+Cloves,133.01
+Salt,178.27
+Mayonnaise,300.2
+Beans,146.05
+Spices Mix,92.64
+Black Pepper,350.15
+Milk,44.49
+Cheese,234.93
+Lemon,257.42
+Oregano,191.32
+Mint Leaves,221.46
+Peas,211.09
+Milk,192.72
+Vinegar,134.98
+Green Chili,272.62
+Spices Mix,123.52
+Flour,258.8
+Fish,395.54
+Tomato,241.68
+Cabbage,477.17
+Carrot,195.97
+Turmeric,97.43
+Mint Leaves,385.48
+Basil,239.77
+Mustard Seeds,250.37
+Sugar,337.83
+Potato,439.05
+Salt,150.21
+Sugar,186.85
+Spinach,179.57
+Spinach,141.76
+Turmeric,321.48
+Lemon,438.51
+Parsley,81.83
+Paneer,89.34
+Beans,47.12
+Curd,274.45
+Tomato Sauce,467.14
+Mayonnaise,478.15
+Soy Sauce,116.38
+Vinegar,252.81
+Vinegar,122.09
+Tomato Sauce,95.33
+Spinach,201.53
+Lemon,63.77
+Cabbage,392.43
+Egg,26.81
+Tomato Sauce,174.24
+Lemon,434.2
+Salt,422.86
+Spinach,129.49
+Cinnamon,197.93
+Onion,477.02
+Mint Leaves,411.14
+Bread,190.83
+Beef,494.14
+Ginger,223.62
+Spinach,161.52
+Cauliflower,233.28
+Cumin,328.5
+Bread,70.38
+Capsicum,454.76
+Cloves,324.47
+Paneer,499.38
+Potato,42.51
+Rice,56.87
+Mint Leaves,421.67
+Tomato,495.68
+Cauliflower,35.75
+Beef,186.57
+Butter,70.91
+Turmeric,477.08
+Egg,249.07
+Paneer,64.86
+Mint Leaves,370.01
+Rice,276.29
+Cloves,289.12
+Turmeric,491.62
+Flour,159.05
+Garlic,434.09
+Butter,53.55
+Cauliflower,133.23
+Soy Sauce,231.15
+Cloves,21.57
+Cloves,34.78
+Chicken,352.78
+Beef,437.7
+Oil,202.27
+Oil,154.64
+Capsicum,12.3
+Ginger,433.78
+Oil,402.22
+Broccoli,56.56
+Coriander,85.96
+Mayonnaise,402.18
+Egg,446.64
+Green Chili,489.99
+Lentils,416.35
+Cardamom,495.45
+Chicken,465.22
+Soy Sauce,443.72
+Fish,496.33
+Tomato Sauce,369.55
+Cauliflower,59.0
+Oregano,73.17
+Paneer,396.56
+Fish,32.71
+Peas,60.69
+Carrot,222.86
+Egg,341.21
+Rice,194.93
+Turmeric,51.89
+Milk,87.45
+Potato,106.84
+Tomato Sauce,207.08
+Potato,335.52
+Onion,133.09
+Peas,254.71
+Capsicum,90.52
+Chicken,55.3
+Mint Leaves,248.91
+Mushroom,394.69
+Ginger,234.51
+Egg,193.89
+Cheese,443.44
+Beans,300.83
+Mushroom,256.47
+Potato,469.71
+Coriander,92.2
+Beef,434.64
+Soy Sauce,168.98
+Mushroom,475.07
+Onion,415.76
+Green Chili,367.88
+Flour,195.21
+Cabbage,119.15
+Salt,97.22
+Broccoli,78.43
+Curd,64.27
+Salt,150.55
+Ginger,421.68
+Green Chili,375.54
+Soy Sauce,296.67
+Lemon,93.84
+Vinegar,221.57
+Ginger,473.96
+Flour,498.76
+Potato,381.08
+Cloves,273.92
+Cardamom,53.21
+Milk,442.15
+Mushroom,252.41
+Spices Mix,281.96
+Paneer,101.09
+Potato,381.72
+Onion,151.88
+Cloves,191.47
+Capsicum,197.71
+Cumin,69.94
+Salt,243.6
+Salt,160.0
+Flour,19.19
+Milk,387.97
+Ginger,283.79
+Mayonnaise,406.95
+Milk,75.87
+Chicken,350.83
+Cardamom,313.47
+Mushroom,44.25
+Fish,196.03
+Capsicum,284.63
+Onion,442.42
+Cumin,349.77
+Peas,497.36
+Coriander,317.68
+Cabbage,357.06
+Butter,139.71
+Flour,143.61
+Vinegar,402.3
+Curd,462.36
+Capsicum,195.85
+Egg,237.47
+Lentils,75.3
+Fish,273.24
+Mushroom,239.63
+Cloves,365.46
+Mustard Seeds,354.61
+Salt,199.77
+Sugar,239.66
+Soy Sauce,284.15
+Cauliflower,107.09
+Mushroom,395.76
+Spices Mix,311.51
+Spices Mix,272.27
+Carrot,129.41
+Tomato Sauce,389.58
+Vinegar,314.57
+Onion,46.23
+Beef,188.6
+Bread,272.84
+Cheese,255.68
+Rice,486.48
+Coriander,151.12
+Beef,278.8
+Chicken,407.96
+Peas,156.86
+Fish,421.25
+Flour,178.44
+Vinegar,385.49
+Spinach,394.11
+Garlic,474.94
+Chili Powder,430.96
+Mustard Seeds,238.01
+Basil,22.51
+Broccoli,293.44
+Capsicum,236.24
+Beans,84.86
+Paneer,358.56
+Paneer,301.83
+Tomato,114.82
+Spices Mix,375.91
+Sugar,50.98
+Turmeric,152.38
+Flour,46.39
+Onion,357.65
+Peas,358.72
+Lemon,330.01
+Coriander,216.41
+Turmeric,269.25
+Salt,61.92
+Butter,94.34
+Sugar,109.38
+Lemon,65.66
+Sugar,278.13
+Lentils,295.87
+Oil,38.52
+Lentils,194.05
+Milk,30.35
+Curd,363.66
+Paneer,476.17
+Chicken,312.46
+Potato,172.92
+Garlic,52.06
+Turmeric,480.9
+Butter,474.28
+Mint Leaves,252.93
+Chicken,375.83
+Soy Sauce,177.21
+Flour,121.36
+Cinnamon,480.15
+Mayonnaise,367.1
+Black Pepper,159.84
+Egg,318.9
+Oregano,399.03
+Black Pepper,409.71
+Chicken,253.52
+Spices Mix,269.07
+Salt,226.51
+Paneer,193.67
+Chili Powder,97.0
+Mushroom,68.61
+Mayonnaise,34.49
+Beans,344.43
+Paneer,401.59
+Paneer,75.17
+Soy Sauce,199.5
+Salt,220.86
+Mustard Seeds,151.02
+Carrot,59.25
+Capsicum,332.04
+Lentils,22.98
+Turmeric,434.76
+Chicken,478.68
+Cumin,207.03
+Mayonnaise,128.66
+Mayonnaise,209.92
+Black Pepper,462.03
+Bread,50.53
+Mustard Seeds,262.15
+Oregano,333.89
+Oregano,413.59
+Cinnamon,483.89
+Lemon,170.78
+Tomato Sauce,86.14
+Tomato Sauce,299.69
+Chicken,339.28
+Onion,102.51
+Salt,171.61
+Black Pepper,152.87
+Ginger,430.03
+Peas,80.82
+Green Chili,28.15
+Lentils,335.2
+Paneer,200.44
+Cloves,55.08
+Beans,199.95
+Tomato Sauce,237.74
+Peas,43.1
+Capsicum,238.69
+Spinach,240.39
+Chicken,236.99
+Mayonnaise,17.92
+Chili Powder,308.19
+Lentils,117.2
+Chili Powder,200.85
+Basil,251.09
+Cauliflower,457.7
+Fish,218.35
+Cumin,429.28
+Parsley,294.36
+Flour,26.65
+Rice,75.87
+Beef,457.41
+Lentils,181.73
+Fish,487.93
+Egg,37.29
+Broccoli,266.0
+Beef,196.71
+Vinegar,436.46
+Mayonnaise,265.17
+Coriander,268.21
+Tomato,212.83
+Ginger,45.1
+Mint Leaves,200.69
+Paneer,148.95
+Sugar,266.79
+Mustard Seeds,307.02
+Mint Leaves,284.32
+Curd,342.22
+Coriander,298.43
+Ginger,34.56
+Mushroom,295.73
+Salt,281.35
+Potato,378.98
+Coriander,271.37
+Flour,31.02
+Vinegar,382.31
+Oil,135.1
+Coriander,306.46
+Oregano,294.3
+Capsicum,212.24
+Broccoli,120.31
+Cabbage,469.32
+Cauliflower,369.19
+Paneer,352.9
+Carrot,70.83
+Parsley,73.77
+Curd,290.7
+Carrot,49.7
+Cinnamon,416.48
+Carrot,305.46
+Milk,364.68
+Cinnamon,106.46
+Cloves,181.61
+Turmeric,323.23
+Chicken,169.76
+Sugar,209.42
+Coriander,200.34
+Oregano,238.06
+Capsicum,285.56
+Salt,394.21
+Bread,129.69
+Flour,497.62
+Spinach,276.79
+Chili Powder,438.47
+Onion,471.42
+Turmeric,441.07
+Flour,44.67
+Parsley,269.8
+Cumin,273.15
+Capsicum,168.91
+Black Pepper,181.97
+Cinnamon,291.27
+Mushroom,62.29
+Lemon,244.15
+Peas,246.6
+Cardamom,365.87
+Flour,269.75
+Beef,197.41
+Tomato Sauce,304.57
+Chicken,159.68
+Black Pepper,195.67
+Ginger,109.65
+Salt,216.21
+Cumin,66.32
+Cinnamon,410.52
+Sugar,499.65
+Cheese,214.34
+Mushroom,81.76
+Flour,344.06
+Mushroom,327.16
+Oil,353.03
+Rice,174.49
+Egg,245.83
+Cumin,203.78
+Coriander,381.98
+Bread,492.77
+Chicken,421.57
+Vinegar,63.62
+Spinach,373.57
+Peas,359.83
+Salt,117.93
+Milk,26.53
+Sugar,282.7
+Cabbage,305.09
+Beef,106.51
+Turmeric,181.18
+Cardamom,186.91
+Sugar,170.9
+Soy Sauce,189.03
+Capsicum,243.48
+Cumin,14.18
+Sugar,384.47
+Salt,52.91
+Green Chili,107.28
+Salt,403.29
+Mushroom,197.51
+Salt,430.01
+Peas,310.94
+Lemon,488.24
+Cloves,46.5
+Beef,451.03
+Cardamom,226.95
+Green Chili,420.39
+Chili Powder,414.9
+Potato,106.12
+Tomato,180.27
+Broccoli,241.14
+Fish,39.88
+Cloves,104.45
+Salt,284.71
+Cumin,394.12
+Egg,305.89
+Flour,259.93
+Coriander,164.47
+Milk,256.51
+Egg,494.09
+Beef,351.39
+Onion,142.09
+Green Chili,231.31
+Spices Mix,20.38
+Coriander,176.08
+Basil,426.71
+Peas,379.36
+Capsicum,279.77
+Vinegar,284.4
+Cardamom,297.12
+Salt,34.45
+Bread,27.44
+Carrot,306.85
+Cheese,148.5
+Cheese,314.46
+Mint Leaves,131.32
+Milk,318.35
+Cabbage,31.38
+Lentils,468.47
+Tomato,151.78
+Vinegar,165.74
+Cheese,333.49
+Bread,394.66
+Curd,366.6
+Spinach,470.87
+Cloves,482.67
+Cauliflower,374.88
+Onion,156.71
+Bread,382.23
+Beans,253.03
+Mustard Seeds,388.71
+Sugar,185.92
+Chili Powder,107.07
+Rice,249.98
+Capsicum,139.02
+Chili Powder,361.09
+Cheese,362.69
+Tomato Sauce,460.19
+Cabbage,84.18
+Mustard Seeds,259.06
+Salt,101.9
+Cinnamon,419.35
+Cauliflower,239.65
+Chicken,492.59
+Butter,338.52
+Butter,291.12
+Cardamom,446.89
+Vinegar,477.32
+Lentils,455.64
+Cloves,43.29
+Chili Powder,92.2
+Cauliflower,290.71
+Butter,181.72
+Chili Powder,86.92
+Rice,203.08
+Cinnamon,257.97
+Sugar,22.31
+Mushroom,135.03
+Beef,91.47
+Chili Powder,30.03
+Cloves,414.51
+Beans,306.1
+Cinnamon,191.79
+Soy Sauce,226.2
+Flour,329.36
+Cardamom,308.65
+Cloves,385.32
+Black Pepper,30.42
+Coriander,321.75
+Bread,466.96
+Spinach,246.97
+Milk,40.94
+Turmeric,39.12
+Potato,327.93
+Butter,247.2
+Cheese,213.73
+Coriander,18.07
+Beans,143.32
+Mint Leaves,180.27
+Beef,57.44
+Coriander,446.24
+Flour,265.41
+Lemon,192.69
+Mustard Seeds,125.47
+Green Chili,277.33
+Salt,267.71
+Rice,59.25
+Egg,174.77
+Capsicum,259.25
+Egg,137.83
+Parsley,458.68
+Mint Leaves,205.0
+Basil,262.83
+Spinach,185.73
+Green Chili,373.15
+Fish,425.94
+Fish,421.86
+Milk,286.55
+Soy Sauce,421.28
+Black Pepper,287.38
+Paneer,262.36
+Tomato,194.17
+Garlic,97.88
+Tomato,341.09
+Mayonnaise,33.22
+Capsicum,427.55
+Cumin,357.31
+Mayonnaise,93.66
+Flour,274.34
+Black Pepper,389.23
+Turmeric,323.29
+Oregano,276.16
+Coriander,452.0
+Chili Powder,478.13
+Lentils,49.71
+Chili Powder,67.88
+Mayonnaise,376.64
+Beef,411.54
+Garlic,66.59
+Cinnamon,130.43
+Capsicum,380.28
+Basil,56.61
+Egg,434.82
+Lentils,401.46
+Garlic,428.71
+Cloves,405.04
+Coriander,354.93
+Spinach,78.16
+Garlic,64.65
+Coriander,57.74
+Fish,460.1
+Carrot,304.36
+Chicken,205.45
+Spinach,398.03
+Cheese,400.53
+Turmeric,174.88
+Butter,369.68
+Soy Sauce,89.13
+Chili Powder,20.36
+Cardamom,122.17
+Mint Leaves,388.44
+Beans,147.9
+Rice,358.61
+Black Pepper,182.73
+Potato,142.27
+Curd,97.61
+Soy Sauce,48.28
+Mustard Seeds,277.71
+Mayonnaise,412.34
+Fish,431.28
+Sugar,168.39
+Paneer,33.8
+Vinegar,477.26
+Flour,333.62
+Green Chili,384.04
+Ginger,202.6
+Garlic,137.57
+Capsicum,221.85
+Sugar,369.27
+Broccoli,434.48
+Curd,321.69
+Cheese,246.0
+Cumin,407.03
+Carrot,111.94
+Capsicum,168.14
+Green Chili,97.95
+Potato,176.9
+Vinegar,270.96
+Chicken,150.91
+Cinnamon,383.43
+Salt,139.44
+Capsicum,224.83
+Cardamom,367.75
+Garlic,274.87
+Cumin,492.09
+Egg,233.82
+Cheese,343.0
+Black Pepper,100.68
+Mint Leaves,385.42
+Mushroom,278.47
+Fish,194.63
+Green Chili,457.96
+Lentils,61.9
+Black Pepper,59.2
+Garlic,313.24
+Mushroom,163.3
+Coriander,492.69
+Basil,109.74
+Rice,338.66
+Rice,428.21
+Capsicum,127.69
+Ginger,131.67
+Cardamom,445.9
+Beef,377.83
+Paneer,374.41
+Tomato,222.19
+Cumin,293.85
+Lemon,210.11
+Fish,52.29
+Coriander,182.16
+Capsicum,478.81
+Butter,61.56
+Chicken,210.27
+Bread,340.33
+Potato,320.15
+Cheese,147.91
+Chicken,314.06
+Basil,32.99
+Lemon,287.2
+Mustard Seeds,447.08
+Capsicum,333.08
+Flour,168.63
+Peas,104.76
+Lemon,271.27
+Cauliflower,248.64
+Spices Mix,268.41
+Cloves,147.54
+Tomato Sauce,200.93
+Paneer,353.1
+Egg,394.05
+Tomato,250.74
+Basil,131.46
+Cinnamon,321.01
+Beef,306.31
+Parsley,66.68
+Mustard Seeds,296.23
+Broccoli,411.36
+Oregano,436.42
+Tomato,439.41
+Milk,429.79
+Coriander,403.34
+Cumin,283.82
+Salt,399.05
+Fish,196.61
+Beans,289.1
+Cinnamon,97.07
+Spices Mix,22.33
+Cabbage,435.41
+Chicken,229.94
+Lemon,305.92
+Milk,339.14
+Flour,482.78
+Oregano,123.7
+Spinach,64.48
+Oregano,279.0
+Carrot,161.96
+Coriander,157.82
+Chicken,321.71
+Paneer,468.69
+Paneer,152.12
+Turmeric,85.91
+Mint Leaves,373.3
+Cloves,497.34
+Green Chili,136.09
+Beans,77.6
+Beans,242.15
+Cardamom,371.22
+Garlic,481.6
+Mayonnaise,120.79
+Turmeric,67.72
+Cumin,256.95
+Mustard Seeds,147.61
+Tomato,140.27
+Capsicum,422.23
+Capsicum,406.53
+Cheese,412.63
+Beef,166.35
+Spinach,25.2
+Paneer,482.25
+Cabbage,357.3
+Bread,430.53
+Onion,287.29
+Curd,266.21
+Flour,165.58
+Garlic,249.94
+Beef,300.11
+Lentils,418.22
+Paneer,385.84
+Lemon,236.67
+Vinegar,407.61
+Potato,362.98
+Soy Sauce,304.64
+Green Chili,418.03
+Cloves,135.35
+Cabbage,108.59
+Capsicum,51.79
+Egg,330.87
+Capsicum,301.89
+Chicken,171.85
+Basil,438.12
+Cloves,344.55
+Potato,142.62
+Flour,440.87
+Cumin,34.12
+Cauliflower,238.34
+Black Pepper,358.17
+Cardamom,282.84
+Bread,33.72
+Lemon,470.39
+Mint Leaves,341.8
+Onion,468.17
+Salt,196.97
+Fish,25.92
+Garlic,463.15
+Cardamom,496.45
+Rice,306.86
+Butter,400.84
+Cinnamon,261.95
+Cardamom,296.12
+Bread,79.14
+Coriander,265.45
+Fish,407.93
+Tomato Sauce,96.56
+Spices Mix,47.26
+Green Chili,397.14
+Mushroom,150.44
+Curd,54.78
+Chili Powder,256.05
+Broccoli,142.46
+Lentils,448.45
+Lemon,226.24
+Carrot,435.25
+Soy Sauce,193.39
+Paneer,328.74
+Cloves,213.99
+Spices Mix,219.33
+Mushroom,46.7
+Salt,253.92
+Oil,193.29
+Green Chili,312.83
+Sugar,47.37
+Mushroom,363.26
+Mustard Seeds,206.19
+Lemon,411.81
+Butter,216.58
+Beans,438.7
+Salt,435.91
+Butter,337.22
+Cardamom,444.02
+Parsley,282.21
+Mayonnaise,236.06
+Cardamom,398.27
+Peas,219.96
+Beef,54.05
+Garlic,257.52
+Cloves,424.81
+Egg,45.39
+Garlic,288.37
+Potato,436.53
+Oregano,217.05
+Garlic,376.14
+Cheese,376.33
+Turmeric,386.22
+Cauliflower,69.44
+Curd,303.66
+Paneer,472.94
+Turmeric,413.56
+Peas,316.68
+Spices Mix,94.46
+Cheese,146.2
+Vinegar,201.81
+Ginger,265.8
+Cardamom,482.2
+Onion,379.86
+Sugar,440.33
+Oil,91.33
+Cloves,482.08
+Mayonnaise,383.96
+Turmeric,401.02
+Mustard Seeds,317.01
+Cardamom,300.58
+Vinegar,294.09
+Rice,130.83
+Beef,235.89
+Cheese,487.6
+Mayonnaise,81.18
+Ginger,237.67
+Tomato Sauce,160.95
+Lentils,499.78
+Green Chili,347.67
+Coriander,46.9
+Salt,277.96
+Mayonnaise,38.56
+Broccoli,280.75
+Garlic,149.41
+Cabbage,157.27
+Bread,404.77
+Oregano,488.87
+Coriander,472.55
+Tomato,304.59
+Cinnamon,274.29
+Butter,490.22
+Vinegar,272.4
+Cheese,369.16
+Soy Sauce,188.55
+Broccoli,478.51
+Tomato,90.74
+Tomato,383.07
+Spinach,168.67
+Green Chili,412.74
+Cloves,345.89
+Milk,248.52
+Garlic,176.28
+Coriander,482.28
+Sugar,76.6
+Basil,247.13
+Spinach,66.49
+Mint Leaves,46.3
+Tomato,188.41
+Spinach,250.26
+Flour,163.11
+Mint Leaves,146.01
+Mustard Seeds,420.78
+Mushroom,63.42
+Cloves,109.02
+Cabbage,26.56
+Cauliflower,53.22
+Turmeric,15.11
+Cheese,116.0
+Cardamom,453.91
+Turmeric,460.35
+Cumin,63.62
+Cumin,372.61
+Vinegar,361.71
+Black Pepper,240.06
+Butter,327.5
+Beef,465.89
+Milk,99.84
+Tomato,92.36
+Mint Leaves,64.37
+Oregano,107.93
+Coriander,465.28
+Fish,495.41
+Oil,419.55
+Mint Leaves,134.51
+Mushroom,291.08
+Egg,339.23
+Ginger,448.42
+Parsley,354.21
+Cabbage,77.53
+Egg,78.56
+Coriander,144.11
+Lentils,480.94
+Paneer,198.46
+Turmeric,399.61
+Potato,234.56
+Cardamom,327.61
+Cumin,196.16
+Cinnamon,274.72
+Carrot,53.69
+Black Pepper,255.13
+Cardamom,209.1
+Lemon,304.5
+Beef,222.49
+Green Chili,118.56
+Vinegar,356.37
+Ginger,456.51
+Soy Sauce,31.32
+Beef,351.58
+Mushroom,82.57
+Carrot,256.49
+Oregano,489.82
+Onion,125.66
+Peas,434.82
+Paneer,493.94
+Milk,499.14
+Spices Mix,234.17
+Beans,392.47
+Soy Sauce,316.92
+Mayonnaise,222.43
+Lentils,295.46
+Ginger,74.79
+Cloves,368.08
+Cinnamon,211.02
+Paneer,370.43
+Turmeric,181.07
+Carrot,310.74
+Capsicum,158.21
+Capsicum,344.98
+Spinach,274.5
+Soy Sauce,63.81
+Mustard Seeds,317.24
+Chili Powder,492.02
+Mayonnaise,362.92
+Beef,279.09
+Spinach,131.1
+Vinegar,162.75
+Beans,252.78
+Sugar,42.57
+Chicken,489.06
+Cabbage,400.52
+Cloves,52.59
+Cheese,468.92
+Sugar,323.65
+Oil,277.78
+Lentils,385.64
+Peas,308.0
+Beef,422.17
+Turmeric,40.86
+Curd,201.1
+Cloves,288.85
+Tomato Sauce,398.39
+Oregano,301.62
+Carrot,84.83
+Flour,326.74
+Onion,393.35
+Lemon,264.7
+Turmeric,77.59
+Mint Leaves,195.43
+Lentils,128.41
+Capsicum,218.07
+Lemon,26.34
+Tomato,244.17
+Cheese,116.16
+Beef,82.96
+Green Chili,396.03
+Spinach,186.3
+Turmeric,38.61
+Oregano,283.62
+Cloves,493.62
+Cloves,454.59
+Ginger,223.66
+Cardamom,93.35
+Paneer,143.36
+Bread,283.94
+Cloves,81.37
+Cardamom,70.59
+Beef,24.38
+Tomato Sauce,18.94
+Broccoli,499.7
+Cabbage,55.49
+Turmeric,280.04
+Chicken,327.97
+Coriander,200.32
+Lemon,146.28
+Tomato,128.14
+Mustard Seeds,162.76
+Oil,363.41
+Mushroom,56.87
+Tomato,144.49
+Potato,22.89
+Mustard Seeds,430.51
+Curd,24.65
+Bread,168.61
+Garlic,15.35
+Coriander,333.72
+Cloves,457.36
+Garlic,448.58
+Egg,441.2
+Rice,299.56
+Cinnamon,164.79
+Peas,371.54
+Curd,242.22
+Broccoli,58.77
+Black Pepper,158.96
+Sugar,291.08
+Beans,46.36
+Parsley,133.79
+Green Chili,44.25
+Salt,353.29
+Chili Powder,195.63
+Cumin,424.97
+Green Chili,89.4
+Soy Sauce,92.36
+Milk,156.94
+Oregano,455.75
+Flour,406.64
+Flour,34.76
+Salt,407.58
+Cardamom,99.61
+Mayonnaise,421.96
+Coriander,121.64
+Rice,436.08
+Mustard Seeds,390.21
+Milk,153.81
+Egg,442.49
+Coriander,77.87
+Fish,463.09
+Egg,430.41
+Spinach,336.96
+Turmeric,10.06
+Green Chili,181.71
+Rice,315.15
+Broccoli,124.88
+Beef,30.92
+Turmeric,119.56
+Chicken,463.3
+Mustard Seeds,118.97
+Oregano,347.9
+Cauliflower,382.65
+Beans,436.52
+Vinegar,447.11
+Coriander,484.76
+Broccoli,95.35
+Garlic,282.55
+Vinegar,344.15
+Capsicum,420.62
+Black Pepper,411.34
+Flour,213.93
+Black Pepper,17.09
+Onion,483.68
+Rice,339.2
+Chili Powder,239.27
+Cinnamon,385.02
+Cinnamon,347.05
+Parsley,440.64
+Soy Sauce,271.47
+Chicken,440.12
+Capsicum,345.52
+Sugar,291.32
+Coriander,244.96
+Onion,344.42
+Lemon,236.42
+Egg,273.74
+Cabbage,242.43
+Beef,478.39
+Garlic,64.0
+Mint Leaves,385.31
+Milk,40.54
+Coriander,465.03
+Spinach,80.64
+Oregano,87.26
+Parsley,496.66
+Chicken,177.64
+Lemon,150.59
+Broccoli,427.21
+Capsicum,461.57
+Soy Sauce,22.95
+Oregano,222.66
+Fish,245.74
+Tomato,226.0
+Potato,308.51
+Spinach,452.68
+Potato,331.84
+Spices Mix,350.17
+Curd,393.66
+Mushroom,345.57
+Sugar,401.01
+Bread,56.74
+Chili Powder,379.85
+Chili Powder,101.96
+Capsicum,461.84
+Coriander,279.51
+Bread,134.99
+Beef,352.18
+Milk,57.92
+Chili Powder,18.31
+Peas,195.84
+Ginger,17.66
+Garlic,329.95
+Rice,475.59
+Lemon,93.88
+Mayonnaise,159.05
+Basil,455.09
+Mayonnaise,166.95
+Onion,168.11
+Butter,431.99
+Cumin,297.44
+Egg,461.49
+Parsley,218.06
+Turmeric,388.54
+Lentils,442.31
+Milk,358.34
+Capsicum,252.34
+Carrot,424.12
+Cloves,25.08
+Cheese,319.96
+Green Chili,282.88
+Rice,56.7
+Carrot,169.21
+Peas,360.11
+Cumin,87.07
+Turmeric,29.93
+Flour,229.52
+Coriander,109.9
+Basil,38.23
+Ginger,148.7
+Curd,170.49
+Egg,435.39
+Mint Leaves,369.26
+Mushroom,432.44
+Beans,251.23
+Cardamom,321.24
+Beef,316.18
+Peas,287.62
+Coriander,170.89
+Lentils,493.17
+Spices Mix,399.54
+Milk,285.3
+Rice,147.47
+Rice,58.97
+Tomato Sauce,352.83
+Ginger,232.07
+Egg,128.38
+Spinach,182.24
+Oil,123.62
+Cabbage,125.76
+Cloves,226.77
+Onion,362.76
+Bread,87.94
+Potato,51.59
+Carrot,260.07
+Turmeric,441.36
+Green Chili,143.61
+Parsley,139.48
+Bread,40.15
+Garlic,498.91
+Egg,149.88
+Cloves,286.31
+Garlic,232.44
+Green Chili,174.68
+Paneer,50.2
+Onion,483.67
+Coriander,379.41
+Mushroom,302.74
+Milk,175.97
+Turmeric,464.44
+Parsley,208.77
+Oil,421.85
+Cloves,122.34
+Broccoli,135.58
+Rice,497.18
+Chicken,284.25
+Oil,179.87
+Capsicum,440.39
+Egg,262.8
+Soy Sauce,392.64
+Spices Mix,156.38
+Green Chili,374.18
+Bread,131.28
+Flour,124.76
+Vinegar,226.96
+Sugar,134.23
+Basil,99.58
+Black Pepper,127.93
+Rice,183.8
+Vinegar,257.61
+Curd,77.92
+Milk,427.02
+Vinegar,171.63
+Garlic,301.26
+Green Chili,387.97
+Capsicum,136.73
+Parsley,418.85
+Butter,302.32
+Cheese,335.28
+Sugar,128.78
+Cinnamon,236.0
+Cloves,453.16
+Ginger,444.96
+Oregano,347.62
+Soy Sauce,176.24
+Milk,247.66
+Carrot,327.93
+Salt,118.61
+Rice,486.95
+Oil,278.72
+Tomato,78.63
+Mushroom,102.85
+Spices Mix,73.92
+Spinach,29.88
+Salt,71.23
+Mayonnaise,390.02
+Lentils,98.5
+Coriander,264.51
+Spinach,124.23
+Turmeric,286.08
+Onion,382.91
+Bread,170.53
+Cauliflower,289.65
+Sugar,235.07
+Capsicum,299.37
+Cauliflower,160.78
+Rice,168.21
+Cloves,116.19
+Mushroom,15.74
+Basil,180.42
+Green Chili,225.17
+Chili Powder,180.95
+Cloves,47.56
+Cloves,279.31
+Curd,43.12
+Beef,141.92
+Curd,151.45
+Ginger,303.98
+Egg,59.16
+Cumin,313.57
+Black Pepper,46.01
+Bread,378.43
+Fish,65.7
+Spinach,37.73
+Curd,264.19
+Parsley,107.09
+Cinnamon,44.68
+Black Pepper,451.23
+Garlic,187.42
+Salt,166.82
+Oregano,408.69
+Milk,486.44
+Rice,263.86
+Cabbage,37.49
+Sugar,460.32
+Potato,463.42
+Onion,58.18
+Tomato Sauce,58.27
+Chili Powder,233.67
+Lemon,137.34
+Turmeric,102.75
+Broccoli,190.96
+Chicken,491.17
+Paneer,228.71
+Paneer,430.63
+Broccoli,60.24
+Broccoli,104.11
+Garlic,264.81
+Vinegar,421.57
+Vinegar,357.55
+Chili Powder,430.46
+Tomato Sauce,291.9
+Milk,271.84
+Lemon,181.54
+Ginger,41.74
+Curd,240.76
+Green Chili,324.63
+Cardamom,473.11
+Basil,363.51
+Butter,113.87
+Tomato Sauce,17.32
+Parsley,319.75
+Basil,31.62
+Cardamom,325.48
+Paneer,260.83
+Tomato,279.45
+Green Chili,174.38
+Lentils,228.72
+Green Chili,174.29
+Garlic,405.44
+Mayonnaise,162.49
+Carrot,159.42
+Chili Powder,353.17
+Paneer,273.07
+Rice,376.19
+Cabbage,336.65
+Cloves,25.33
+Ginger,486.36
+Cloves,366.3
+Mayonnaise,100.84
+Turmeric,305.93
+Beef,395.51
+Turmeric,386.29
+Mint Leaves,455.28
+Capsicum,41.84
+Sugar,349.17
+Bread,370.16
+Spinach,82.91
+Lemon,27.48
+Milk,429.72
+Cinnamon,219.2
+Curd,347.23
+Cumin,312.53
+Egg,241.79
+Cardamom,449.2
+Lemon,385.47
+Bread,83.69
+Vinegar,409.28
+Bread,202.27
+Beef,397.23
+Milk,245.31
+Peas,28.82
+Coriander,11.1
+Spices Mix,16.2
+Spices Mix,129.3
+Cumin,379.67
+Mayonnaise,220.42
+Spinach,67.06
+Cauliflower,386.09
+Chicken,54.88
+Spices Mix,455.33
+Cabbage,376.96
+Cheese,288.12
+Mayonnaise,317.0
+Egg,423.84
+Butter,146.38
+Sugar,273.31
+Fish,433.18
+Salt,392.74
+Fish,470.77
+Chicken,284.32
+Egg,383.34
+Lemon,181.55
+Onion,133.22
+Spinach,15.99
+Milk,215.05
+Milk,490.7
+Lentils,381.61
+Tomato,326.33
+Soy Sauce,80.92
+Chicken,275.89
+Garlic,277.32
+Cabbage,370.74
+Mustard Seeds,165.26
+Ginger,151.34
+Mint Leaves,350.39
+Fish,283.83
+Garlic,387.12
+Sugar,351.88
+Curd,476.13
+Oil,179.93
+Fish,472.67
+Chicken,51.54
+Fish,369.79
+Cloves,36.13
+Lentils,42.9
+Lentils,318.05
+Cauliflower,228.48
+Vinegar,231.67
+Basil,239.8
+Cloves,441.63
+Oil,175.1
+Sugar,341.17
+Chicken,224.0
+Cauliflower,94.55
+Oil,170.9
+Turmeric,320.64
+Soy Sauce,457.9
+Paneer,212.18
+Beans,64.71
+Curd,486.03
+Rice,174.35
+Rice,108.79
+Potato,72.92
+Mustard Seeds,311.34
+Lentils,400.18
+Cabbage,272.06
+Lentils,349.82
+Turmeric,374.6
+Chili Powder,347.9
+Coriander,40.52
+Cloves,404.46
+Rice,296.71
+Tomato Sauce,415.82
+Rice,419.97
+Bread,264.89
+Beef,413.41
+Cauliflower,142.47
+Ginger,22.48
+Bread,152.45
+Paneer,61.7
+Mushroom,163.44
+Mustard Seeds,159.07
+Cauliflower,228.93
+Egg,183.11
+Salt,294.17
+Mushroom,393.05
+Lentils,146.61
+Flour,156.72
+Tomato Sauce,429.42
+Beans,179.07
+Lentils,87.28
+Parsley,274.59
+Chili Powder,269.64
+Cheese,468.99
+Tomato Sauce,247.51
+Rice,490.62
+Chicken,57.72
+Cumin,465.09
+Soy Sauce,143.37
+Capsicum,299.74
+Basil,396.3
+Black Pepper,149.49
+Turmeric,97.08
+Flour,139.0
+Flour,50.71
+Flour,147.97
+Oil,105.92
+Flour,428.96
+Curd,92.42
+Garlic,216.8
+Paneer,170.2
+Cloves,279.42
+Egg,152.61
+Beef,264.94
+Egg,165.21
+Rice,425.75
+Curd,193.38
+Rice,363.35
+Mayonnaise,19.49
+Bread,404.48
+Tomato Sauce,335.96
+Salt,80.18
+Salt,415.55
+Cinnamon,262.13
+Cardamom,336.69
+Oregano,225.63
+Bread,19.22
+Lentils,80.01
+Cardamom,94.02
+Lemon,279.17
+Black Pepper,350.3
+Mayonnaise,371.92
+Vinegar,304.24
+Capsicum,436.56
+Paneer,207.79
+Mint Leaves,245.36
+Mushroom,492.4
+Fish,337.5
+Cauliflower,161.56
+Mustard Seeds,166.06
+Turmeric,247.65
+Bread,347.0
+Mushroom,142.63
+Mushroom,189.12
+Bread,485.5
+Potato,237.41
+Bread,145.58
+Mint Leaves,243.68
+Lemon,345.69
+Bread,417.39
+Spinach,247.88
+Oil,389.38
+Mustard Seeds,421.25
+Cheese,223.66
+Lentils,318.03
+Onion,405.63
+Cloves,496.19
+Mayonnaise,354.22
+Egg,444.84
+Oregano,427.1
+Lemon,213.86
+Turmeric,51.1
+Mushroom,414.2
+Beans,122.85
+Soy Sauce,162.13
+Beans,492.13
+Lemon,468.52
+Egg,233.45
+Potato,425.5
+Cloves,112.66
+Ginger,38.89
+Salt,142.37
+Spices Mix,276.67
+Mushroom,498.02
+Oregano,36.74
+Chicken,98.18
+Cloves,258.17
+Turmeric,402.42
+Cinnamon,442.54
+Cheese,334.98
+Curd,263.36
+Milk,453.82
+Cloves,206.01
+Chicken,230.16
+Mayonnaise,193.41
+Carrot,414.12
+Oil,121.08
+Carrot,233.32
+Salt,375.57
+Fish,63.25
+Potato,348.09
+Egg,151.5
+Tomato,227.96
+Capsicum,354.15
+Broccoli,16.47
+Beans,437.9
+Ginger,256.1
+Green Chili,387.85
+Basil,26.81
+Peas,422.45
+Bread,225.46
+Carrot,494.34
+Spices Mix,242.13
+Mint Leaves,457.11
+Fish,337.46
+Sugar,457.0
+Egg,224.59
+Turmeric,119.21
+Rice,372.47
+Parsley,407.39
+Vinegar,343.84
+Mustard Seeds,386.45
+Butter,191.04
+Capsicum,452.34
+Cheese,465.34
+Turmeric,118.14
+Butter,273.24
+Ginger,381.43
+Cloves,403.01
+Garlic,241.18
+Curd,231.93
+Mint Leaves,351.83
+Flour,75.76
+Chili Powder,394.92
+Oil,272.9
+Sugar,334.53
+Cinnamon,185.33
+Flour,181.78
+Coriander,104.61
+Curd,243.75
+Oregano,448.83
+Vinegar,480.81
+Fish,301.45
+Mint Leaves,45.32
+Fish,55.88
+Coriander,58.93
+Soy Sauce,376.27
+Mustard Seeds,429.46
+Lentils,493.47
+Vinegar,147.37
+Capsicum,344.45
+Cumin,134.14
+Salt,273.21
+Cloves,143.57
+Peas,88.35
+Spinach,58.68
+Oil,133.11
+Oregano,448.19
+Garlic,20.11
+Beef,439.82
+Chicken,380.38
+Cabbage,76.55
+Cumin,36.16
+Coriander,326.96
+Egg,214.58
+Cabbage,263.12
+Cinnamon,257.05
+Flour,194.68
+Soy Sauce,398.03
+Lemon,192.13
+Mustard Seeds,444.51
+Green Chili,90.04
+Flour,477.96
+Potato,464.79
+Coriander,238.15
+Carrot,231.4
+Spices Mix,495.12
+Sugar,369.21
+Coriander,391.23
+Soy Sauce,238.47
+Cardamom,387.28
+Mint Leaves,269.88
+Green Chili,371.83
+Onion,197.59
+Lentils,194.0
+Turmeric,51.08
+Coriander,74.65
+Beans,266.51
+Basil,299.41
+Beef,61.93
+Cabbage,440.53
+Paneer,295.09
+Spinach,251.16
+Lemon,430.38
+Tomato,189.04
+Ginger,32.1
+Capsicum,201.38
+Coriander,179.55
+Butter,217.43
+Turmeric,224.26
+Chili Powder,164.59
+Mayonnaise,17.74
+Curd,49.21
+Parsley,301.9
+Cauliflower,290.43
+Oil,112.86
+Fish,419.58
+Mushroom,356.53
+Flour,99.12
+Mustard Seeds,397.65
+Potato,284.95
+Potato,106.19
+Capsicum,131.7
+Cabbage,73.06
+Beef,82.28
+Mayonnaise,484.44
+Spices Mix,463.12
+Garlic,488.95
+Parsley,487.82
+Cumin,337.56
+Vinegar,165.46
+Onion,390.26
+Lemon,425.38
+Rice,120.69
+Cheese,327.08
+Salt,351.96
+Mushroom,220.67
+Salt,147.14
+Milk,135.26
+Mint Leaves,353.51
+Tomato,258.77
+Cauliflower,250.69
+Sugar,317.93
+Mint Leaves,443.69
+Black Pepper,336.3
+Carrot,367.93
+Peas,440.55
+Rice,157.73
+Milk,279.18
+Green Chili,158.27
+Turmeric,105.93
+Oil,298.12
+Chicken,228.98
+Cinnamon,236.26
+Oil,421.3
+Mayonnaise,459.31
+Carrot,460.09
+Coriander,36.02
+Peas,80.59
+Turmeric,314.01
+Vinegar,65.08
+Potato,187.94
+Cheese,194.45
+Potato,352.92
+Onion,148.75
+Vinegar,190.11
+Fish,23.65
+Cabbage,117.03
+Sugar,117.47
+Sugar,334.22
+Curd,22.63
+Rice,483.79
+Lemon,17.84
+Soy Sauce,158.75
+Cabbage,364.91
+Onion,494.95
+Cardamom,339.26
+Onion,23.53
+Cauliflower,157.24
+Vinegar,397.85
+Beef,458.79
+Onion,411.29
+Mint Leaves,108.19
+Carrot,461.59
+Tomato,18.77
+Chicken,90.1
+Curd,125.19
+Lemon,372.19
+Egg,260.32
+Rice,105.39
+Vinegar,75.61
+Parsley,295.98
+Cinnamon,253.52
+Ginger,139.61
+Cauliflower,235.31
+Beef,416.2
+Paneer,310.29
+Onion,383.16
+Beef,438.07
+Fish,349.26
+Spices Mix,401.16
+Mushroom,167.44
+Ginger,140.34
+Oregano,418.84
+Peas,346.34
+Oil,122.12
+Vinegar,319.36
+Flour,258.99
+Cumin,115.44
+Turmeric,128.1
+Capsicum,187.5
+Cloves,450.52
+Mushroom,492.4
+Beef,80.72
+Rice,217.36
+Chicken,471.36
+Tomato Sauce,471.16
+Cardamom,302.93
+Tomato,426.4
+Curd,293.27
+Onion,447.66
+Cinnamon,477.45
+Milk,297.56
+Potato,448.25
+Green Chili,189.94
+Onion,99.95
+Potato,40.37
+Spinach,195.55
+Cinnamon,297.5
+Flour,388.93
+Chicken,164.65
+Cumin,276.82
+Basil,25.05
+Spinach,171.11
+Chili Powder,123.37
+Spinach,305.22
+Flour,482.87
+Oregano,93.07
+Salt,411.85
+Parsley,349.88
+Flour,476.34
+Ginger,51.97
+Basil,183.15
+Milk,387.01
+Lemon,484.1
+Spinach,31.13
+Spinach,224.74
+Lentils,72.11
+Garlic,386.42
+Vinegar,457.94
+Vinegar,439.02
+Chili Powder,388.35
+Mint Leaves,49.46
+Coriander,263.09
+Butter,187.41
+Broccoli,128.73
+Cinnamon,140.79
+Lentils,478.11
+Flour,126.48
+Oregano,202.23
+Mustard Seeds,238.99
+Turmeric,438.06
+Peas,79.47
+Capsicum,64.4
+Cinnamon,308.46
+Curd,211.25
+Chicken,436.66
+Black Pepper,358.78
+Mint Leaves,253.97
+Bread,235.16
+Carrot,377.67
+Mushroom,100.25
+Paneer,171.55
+Lentils,455.76
+Cumin,213.66
+Potato,491.89
+Oil,386.39
+Beans,57.26
+Basil,312.63
+Cinnamon,105.19
+Lemon,388.0
+Parsley,286.04
+Basil,32.75
+Spinach,194.75
+Oregano,377.95
+Soy Sauce,280.14
+Lentils,140.44
+Bread,77.41
+Soy Sauce,408.9
+Carrot,244.95
+Coriander,368.23
+Oil,122.22
+Flour,284.38
+Beef,452.52
+Potato,298.96
+Garlic,212.38
+Rice,466.11
+Mustard Seeds,264.22
+Egg,149.07
+Turmeric,62.12
+Turmeric,470.97
+Cloves,101.5
+Chili Powder,65.9
+Mayonnaise,363.79
+Paneer,57.42
+Basil,149.28
+Mushroom,456.73
+Peas,188.05
+Mustard Seeds,287.85
+Soy Sauce,460.01
+Lentils,137.2
+Parsley,269.32
+Coriander,97.57
+Capsicum,221.72
+Ginger,423.85
+Lentils,82.95
+Cloves,210.16
+Peas,333.13
+Bread,340.1
+Mustard Seeds,208.35
+Oil,240.69
+Egg,317.54
+Oil,155.98
+Cloves,194.71
+Rice,293.48
+Beans,76.18
+Oregano,482.27
+Lentils,205.41
+Vinegar,445.91
+Chili Powder,294.29
+Salt,79.61
+Spinach,170.03
+Mushroom,369.14
+Tomato Sauce,213.74
+Cinnamon,333.81
+Beans,347.26
+Mustard Seeds,365.08
+Vinegar,104.28
+Tomato Sauce,413.91
+Cauliflower,208.18
+Curd,322.8
+Potato,102.14
+Cauliflower,254.75
+Cumin,20.65
+Capsicum,318.76
+Spices Mix,101.65
+Oil,227.18
+Cloves,420.33
+Paneer,449.22
+Beans,353.26
+Garlic,28.84
+Capsicum,357.3
+Turmeric,427.52
+Ginger,185.69
+Parsley,140.54
+Broccoli,318.58
+Black Pepper,296.3
+Basil,77.19
+Flour,270.35
+Mint Leaves,348.89
+Turmeric,405.34
+Cabbage,107.59
+Carrot,55.52
+Peas,476.49
+Black Pepper,281.88
+Cinnamon,233.82
+Tomato,121.95
+Broccoli,468.31
+Garlic,395.06
+Ginger,346.72
+Oil,419.14
+Cheese,267.48
+Cloves,37.97
+Egg,307.84
+Potato,319.36
+Cheese,83.81
+Oil,343.6
+Ginger,74.31
+Cauliflower,465.37
+Sugar,398.8
+Egg,284.46
+Ginger,311.19
+Bread,329.56
+Egg,434.23
+Cumin,90.4
+Cloves,22.38
+Cheese,492.34
+Cheese,460.91
+Carrot,414.91
+Cardamom,272.52
+Onion,91.43
+Carrot,221.79
+Butter,232.92
+Potato,443.02
+Broccoli,345.4
+Oil,405.8
+Coriander,109.6
+Cheese,356.06
+Mustard Seeds,245.23
+Lentils,58.84
+Basil,463.59
+Peas,449.19
+Parsley,68.31
+Mustard Seeds,438.01
+Bread,369.54
+Ginger,243.24
+Cheese,242.93
+Basil,203.26
+Beans,257.56
+Salt,154.73
+Mayonnaise,255.94
+Paneer,73.11
+Cauliflower,262.15
+Soy Sauce,48.38
+Vinegar,243.17
+Mint Leaves,421.82
+Mint Leaves,476.7
+Cauliflower,241.05
+Milk,281.74
+Lentils,95.55
+Green Chili,487.49
+Spinach,22.82
+Parsley,207.58
+Cabbage,349.53
+Ginger,408.02
+Egg,384.62
+Paneer,445.03
+Cloves,336.81
+Flour,359.89
+Onion,339.55
+Mint Leaves,47.86
+Cardamom,230.12
+Vinegar,207.9
+Cabbage,167.35
+Broccoli,53.03
+Milk,95.45
+Capsicum,12.52
+Chili Powder,322.43
+Salt,206.98
+Rice,303.49
+Oregano,298.88
+Rice,97.44
+Parsley,149.33
+Salt,445.15
+Broccoli,38.39
+Mushroom,241.01
+Spinach,43.5
+Curd,450.09
+Lentils,96.54
+Cabbage,232.9
+Capsicum,416.88
+Cardamom,349.36
+Tomato Sauce,35.48
+Cumin,408.14
+Cauliflower,150.52
+Salt,329.36
+Rice,401.44
+Mustard Seeds,201.06
+Turmeric,68.43
+Cardamom,351.96
+Milk,278.24
+Basil,423.28
+Mustard Seeds,394.86
+Soy Sauce,386.95
+Black Pepper,355.74
+Cheese,173.64
+Rice,269.27
+Paneer,178.08
+Basil,244.71
+Flour,102.9
+Tomato Sauce,224.82
+Cabbage,489.58
+Green Chili,150.85
+Paneer,342.82
+Cheese,250.02
+Salt,487.29
+Salt,433.82
+Cardamom,338.39
+Bread,204.07
+Beef,84.68
+Cinnamon,13.16
+Mushroom,179.36
+Cumin,405.56
+Mushroom,327.39
+Spinach,345.97
+Turmeric,191.83
+Egg,430.42
+Mint Leaves,261.27
+Egg,151.65
+Milk,187.42
+Cloves,40.47
+Oregano,158.53
+Mayonnaise,370.04
+Flour,160.52
+Vinegar,41.14
+Spices Mix,115.9
+Mushroom,52.96
+Egg,485.41
+Spices Mix,418.2
+Garlic,266.3
+Lemon,433.73
+Mint Leaves,442.07
+Cloves,154.03
+Mustard Seeds,157.92
+Chicken,407.04
+Cinnamon,303.5
+Mint Leaves,419.94
+Broccoli,347.27
+Coriander,64.32
+Cloves,105.79
+Beans,346.34
+Paneer,486.0
+Vinegar,108.75
+Chicken,61.42
+Cabbage,183.23
+Onion,239.71
+Coriander,131.21
+Cumin,172.11
+Sugar,50.66
+Garlic,457.17
+Garlic,339.68
+Turmeric,88.96
+Fish,432.11
+Paneer,191.13
+Cloves,92.64
+Butter,332.03
+Chili Powder,484.72
+Vinegar,89.97
+Bread,53.93
+Soy Sauce,488.74
+Green Chili,27.61
+Cardamom,351.21
+Oregano,117.12
+Spinach,241.8
+Egg,262.99
+Spinach,17.97
+Fish,167.9
+Cumin,55.83
+Mushroom,229.62
+Cauliflower,424.64
+Mint Leaves,308.0
+Fish,19.9
+Cardamom,76.98
+Beef,272.63
+Spices Mix,359.01
+Ginger,362.75
+Broccoli,27.94
+Spices Mix,245.31
+Bread,312.6
+Salt,136.83
+Broccoli,255.61
+Sugar,142.17
+Vinegar,244.25
+Parsley,263.03
+Butter,325.17
+Cauliflower,356.9
+Mayonnaise,171.31
+Chili Powder,171.93
+Spices Mix,265.25
+Carrot,470.28
+Cheese,136.72
+Beans,269.4
+Bread,328.66
+Paneer,315.34
+Mayonnaise,417.33
+Parsley,486.06
+Tomato Sauce,21.71
+Broccoli,55.36
+Beans,162.39
+Chicken,407.93
+Cumin,252.12
+Oregano,453.44
+Mushroom,94.43
+Basil,137.53
+Egg,223.06
+Spinach,156.04
+Ginger,336.79
+Chili Powder,491.47
+Garlic,360.8
+Lentils,51.07
+Rice,76.17
+Ginger,184.7
+Cardamom,93.31
+Egg,64.95
+Beef,378.56
+Vinegar,271.71
+Chili Powder,360.67
+Milk,170.42
+Green Chili,372.46
+Paneer,90.4
+Cloves,153.49
+Spinach,43.5
+Mayonnaise,451.65
+Tomato,234.86
+Mushroom,36.76
+Spices Mix,400.67
+Butter,374.36
+Cauliflower,323.2
+Curd,19.63
+Chicken,211.11
+Carrot,181.1
+Mustard Seeds,92.06
+Carrot,384.11
+Turmeric,28.23
+Garlic,439.55
+Cauliflower,464.49
+Ginger,368.08
+Spices Mix,175.42
+Tomato,495.98
+Beef,107.21
+Turmeric,50.65
+Parsley,142.75
+Carrot,492.84
+Capsicum,304.43
+Black Pepper,33.34
+Beans,214.33
+Sugar,132.47
+Butter,330.76
+Oil,114.8
+Peas,21.51
+Beef,59.21
+Mustard Seeds,346.02
+Chili Powder,367.3
+Curd,405.58
+Tomato Sauce,480.21
+Cauliflower,274.82
+Cauliflower,384.45
+Mustard Seeds,497.31
+Garlic,457.07
+Garlic,265.85
+Lemon,429.33
+Basil,118.92
+Mushroom,425.02
+Mint Leaves,83.57
+Fish,255.96
+Egg,388.16
+Cardamom,494.91
+Salt,60.85
+Spices Mix,382.29
+Cheese,271.24
+Fish,296.21
+Rice,266.97
+Lemon,354.09
+Flour,56.44
+Carrot,279.38
+Parsley,437.83
+Salt,370.07
+Lemon,154.74
+Spinach,78.91
+Rice,196.65
+Oil,155.59
+Ginger,234.25
+Rice,177.0
+Cheese,337.53
+Soy Sauce,343.13
+Cumin,102.83
+Cloves,202.57
+Capsicum,71.64
+Green Chili,76.21
+Beans,499.63
+Cloves,96.2
+Onion,20.69
+Garlic,60.16
+Mushroom,378.0
+Garlic,190.69
+Chicken,418.56
+Cardamom,319.35
+Mint Leaves,97.64
+Black Pepper,224.19
+Cauliflower,447.97
+Cloves,115.44
+Beef,351.93
+Oregano,208.39
+Chicken,352.28
+Beef,290.49
+Potato,206.93
+Chicken,306.24
+Lentils,45.88
+Curd,332.6
+Beef,430.8
+Beans,160.78
+Rice,421.79
+Egg,77.89
+Mustard Seeds,207.9
+Lentils,10.1
+Potato,59.25
+Cloves,258.86
+Beef,297.98
+Carrot,140.22
+Rice,134.44
+Capsicum,444.87
+Ginger,43.85
+Flour,237.8
+Curd,78.27
+Sugar,232.71
+Salt,139.07
+Ginger,159.37
+Turmeric,486.67
+Spices Mix,10.79
+Cloves,302.33
+Cardamom,26.63
+Curd,38.36
+Potato,222.38
+Cardamom,395.01
+Spices Mix,313.96
+Lemon,334.68
+Broccoli,196.32
+Curd,294.98
+Capsicum,301.61
+Milk,155.69
+Flour,377.09
+Fish,72.7
+Cloves,333.12
+Fish,372.41
+Cumin,240.73
+Oil,342.5
+Cauliflower,337.32
+Oregano,177.05
+Mint Leaves,27.45
+Salt,417.44
+Tomato,221.49
+Lemon,406.96
+Peas,137.37
+Chicken,373.44
+Cheese,438.86
+Rice,469.95
+Curd,213.76
+Oregano,259.13
+Fish,75.45
+Green Chili,429.57
+Mustard Seeds,274.01
+Lentils,290.8
+Potato,339.49
+Cabbage,140.71
+Peas,420.81
+Cumin,400.62
+Lemon,458.96
+Vinegar,292.56
+Lemon,325.37
+Mayonnaise,368.7
+Beans,200.87
+Potato,321.27
+Paneer,24.53
+Parsley,225.42
+Mint Leaves,76.08
+Black Pepper,213.32
+Cauliflower,76.38
+Capsicum,265.53
+Peas,383.19
+Salt,220.22
+Mayonnaise,471.07
+Onion,326.29
+Oil,21.93
+Chicken,339.32
+Tomato Sauce,423.07
+Egg,387.2
+Mustard Seeds,95.5
+Tomato Sauce,210.83
+Oil,427.68
+Coriander,388.69
+Mushroom,209.25
+Lemon,249.47
+Tomato Sauce,490.93
+Salt,487.92
+Vinegar,39.38
+Chili Powder,303.96
+Cauliflower,68.12
+Cloves,164.16
+Broccoli,24.4
+Chili Powder,441.1
+Beef,336.16
+Cauliflower,70.89
+Rice,406.1
+Bread,271.09
+Salt,326.19
+Capsicum,350.56
+Milk,74.18
+Lemon,177.64
+Spinach,112.33
+Spices Mix,181.56
+Beef,61.8
+Cumin,391.46
+Lentils,451.49
+Beans,270.43
+Fish,26.04
+Salt,24.03
+Capsicum,457.9
+Cumin,74.77
+Chicken,302.05
+Potato,361.39
+Butter,182.32
+Ginger,391.07
+Black Pepper,157.24
+Paneer,288.5
+Black Pepper,427.88
+Oil,268.67
+Mushroom,489.85
+Capsicum,219.01
+Basil,194.63
+Mint Leaves,129.77
+Mayonnaise,255.54
+Peas,145.4
+Spices Mix,388.81
+Soy Sauce,141.28
+Cheese,250.11
+Tomato,55.47
+Garlic,411.88
+Sugar,483.37
+Sugar,48.6
+Oregano,30.03
+Parsley,226.9
+Tomato Sauce,470.67
+Chicken,477.04
+Beef,359.02
+Cinnamon,171.35
+Cheese,460.89
+Oregano,413.23
+Chicken,391.35
+Black Pepper,451.43
+Tomato Sauce,467.59
+Lemon,400.42
+Mayonnaise,254.89
+Fish,43.77
+Turmeric,379.29
+Salt,447.42
+Oregano,385.4
+Fish,235.12
+Fish,219.89
+Green Chili,76.62
+Bread,276.83
+Cardamom,476.77
+Turmeric,223.88
+Lemon,496.73
+Onion,331.91
+Egg,433.87
+Cumin,154.79
+Black Pepper,130.03
+Broccoli,202.32
+Tomato Sauce,184.9
+Green Chili,215.65
+Tomato,484.22
+Black Pepper,39.86
+Carrot,244.83
+Oregano,428.93
+Onion,28.62
+Mushroom,378.97
+Turmeric,366.11
+Egg,281.34
+Mayonnaise,244.55
+Butter,39.03
+Beans,139.14
+Peas,157.12
+Green Chili,267.68
+Parsley,362.97
+Lemon,18.44
+Mushroom,382.46
+Coriander,278.95
+Salt,371.45
+Bread,329.33
+Paneer,439.05
+Onion,30.16
+Mint Leaves,416.26
+Cardamom,415.75
+Tomato,317.15
+Cauliflower,228.58
+Carrot,374.7
+Chili Powder,432.02
+Mustard Seeds,25.05
+Mint Leaves,430.89
+Bread,412.47
+Onion,497.7
+Basil,99.9
+Curd,270.75
+Vinegar,386.11
+Green Chili,89.48
+Cheese,259.21
+Basil,491.39
+Mustard Seeds,51.95
+Chili Powder,333.23
+Rice,98.8
+Flour,369.73
+Turmeric,70.41
+Egg,303.28
+Cheese,331.71
+Ginger,19.77
+Garlic,182.34
+Oil,284.2
+Lentils,340.71
+Sugar,314.42
+Ginger,287.55
+Oregano,68.07
+Rice,51.22
+Garlic,406.62
+Flour,91.62
+Rice,418.18
+Carrot,196.77
+Beans,395.09
+Onion,155.03
+Tomato Sauce,337.32
+Basil,82.49
+Cumin,464.89
+Onion,192.14
+Butter,217.88
+Fish,219.8
+Sugar,396.92
+Milk,134.73
+Potato,79.82
+Chicken,399.21
+Potato,248.64
+Spices Mix,176.9
+Egg,101.54
+Mushroom,433.55
+Onion,135.39
+Fish,403.0
+Oil,493.66
+Parsley,195.25
+Coriander,64.52
+Garlic,73.39
+Bread,458.97
+Sugar,31.14
+Mustard Seeds,411.96
+Cumin,166.52
+Salt,129.63
+Oregano,208.02
+Lemon,117.16
+Milk,23.63
+Bread,58.99
+Cabbage,253.04
+Butter,353.24
+Garlic,341.73
+Beans,364.16
+Mayonnaise,315.29
+Mushroom,494.07
+Soy Sauce,356.51
+Chili Powder,278.25
+Cardamom,272.88
+Cabbage,231.92
+Soy Sauce,198.47
+Chicken,422.81
+Peas,119.8
+Green Chili,361.82
+Broccoli,459.7
+Lemon,409.09
+Capsicum,452.33
+Oregano,448.7
+Cloves,358.43
+Tomato Sauce,101.74
+Cheese,127.25
+Rice,251.54
+Tomato Sauce,287.85
+Egg,122.86
+Soy Sauce,108.21
+Vinegar,295.33
+Mint Leaves,123.45
+Chili Powder,174.01
+Potato,274.4
+Mushroom,228.21
+Broccoli,120.46
+Rice,62.59
+Lentils,207.08
+Mushroom,333.46
+Carrot,199.88
+Basil,149.09
+Garlic,88.55
+Green Chili,50.85
+Paneer,124.03
+Capsicum,329.63
+Cloves,303.26
+Rice,55.93
+Parsley,200.06
+Peas,247.6
+Curd,80.01
+Carrot,25.93
+Cheese,487.65
+Tomato Sauce,197.01
+Sugar,426.2
+Spices Mix,47.0
+Rice,19.93
+Coriander,485.83
+Beans,458.08
+Parsley,16.38
+Mint Leaves,181.46
+Tomato,487.99
+Mint Leaves,343.9
+Cumin,459.95
+Tomato Sauce,69.69
+Butter,444.27
+Flour,26.46
+Paneer,415.52
+Beef,489.72
+Mushroom,151.24
+Mint Leaves,287.57
+Flour,56.53
+Cauliflower,373.62
+Parsley,92.21
+Cardamom,418.53
+Beans,16.51
+Chili Powder,427.34
+Potato,286.94
+Garlic,359.61
+Coriander,278.71
+Bread,161.54
+Milk,62.57
+Mushroom,69.21
+Mayonnaise,121.28
+Flour,77.27
+Lentils,132.18
+Ginger,362.64
+Cauliflower,468.88
+Garlic,273.95
+Garlic,193.46
+Sugar,139.95
+Cardamom,282.37
+Curd,161.43
+Cloves,249.91
+Broccoli,486.71
+Sugar,385.88
+Capsicum,216.37
+Green Chili,479.32
+Lentils,266.57
+Egg,488.34
+Peas,14.03
+Curd,488.2
+Tomato,431.99
+Capsicum,142.44
+Curd,146.92
+Egg,192.15
+Cauliflower,304.23
+Lentils,89.05
+Mayonnaise,31.44
+Cabbage,383.33
+Cheese,200.35
+Flour,324.32
+Bread,226.65
+Lentils,18.44
+Cauliflower,76.59
+Cauliflower,272.39
+Cumin,89.69
+Milk,88.24
+Cumin,12.5
+Vinegar,242.42
+Milk,145.86
+Sugar,447.42
+Lemon,338.29
+Paneer,249.69
+Flour,367.63
+Paneer,443.29
+Flour,232.51
+Chicken,258.67
+Milk,64.86
+Cloves,305.68
+Cabbage,228.08
+Spinach,331.96
+Cabbage,387.19
+Capsicum,131.18
+Chili Powder,15.55
+Carrot,378.86
+Capsicum,324.9
+Garlic,268.84
+Egg,413.68
+Mustard Seeds,369.52
+Onion,47.9
+Basil,61.85
+Vinegar,239.68
+Butter,400.42
+Cheese,150.11
+Chili Powder,190.4
+Onion,138.62
+Vinegar,31.18
+Peas,449.27
+Capsicum,498.01
+Ginger,351.3
+Lemon,216.76
+Cinnamon,230.49
+Spinach,170.47
+Butter,445.28
+Lemon,366.43
+Chili Powder,217.19
+Salt,22.92
+Beef,109.17
+Tomato,433.07
+Sugar,339.51
+Parsley,103.73
+Mushroom,370.13
+Carrot,11.99
+Chili Powder,428.64
+Cauliflower,371.72
+Capsicum,381.62
+Soy Sauce,312.48
+Mushroom,110.96
+Cinnamon,396.96
+Milk,467.9
+Butter,453.02
+Ginger,271.53
+Flour,181.92
+Beans,128.68
+Capsicum,444.31
+Mustard Seeds,28.73
+Oil,488.82
+Beef,215.11
+Oil,421.44
+Mustard Seeds,33.05
+Oil,205.53
+Oregano,134.86
+Black Pepper,252.68
+Rice,94.66
+Lemon,342.88
+Tomato Sauce,194.66
+Garlic,158.26
+Sugar,222.65
+Turmeric,444.86
+Cauliflower,150.97
+Salt,96.53
+Bread,70.7
+Cabbage,344.56
+Mayonnaise,105.9
+Carrot,333.01
+Milk,247.26
+Curd,162.16
+Cheese,199.65
+Butter,125.91
+Cabbage,276.98
+Paneer,138.17
+Spinach,153.31
+Flour,443.06
+Soy Sauce,77.97
+Broccoli,249.26
+Cheese,484.3
+Garlic,293.32
+Tomato,372.76
+Soy Sauce,426.63
+Mustard Seeds,75.3
+Parsley,198.04
+Butter,63.42
+Oregano,201.22
+Lemon,78.1
+Cauliflower,382.63
+Salt,206.75
+Oregano,345.08
+Tomato Sauce,175.14
+Fish,475.78
+Milk,59.86
+Basil,441.22
+Cardamom,220.0
+Sugar,334.7
+Oil,353.81
+Garlic,271.03
+Vinegar,152.05
+Parsley,448.06
+Sugar,381.55
+Spinach,474.54
+Spinach,182.7
+Green Chili,34.7
+Mint Leaves,334.34
+Chicken,53.98
+Potato,421.53
+Vinegar,195.27
+Chili Powder,411.44
+Butter,314.62
+Mustard Seeds,496.76
+Capsicum,446.43
+Mustard Seeds,107.3
+Mustard Seeds,222.56
+Bread,338.78
+Mint Leaves,49.26
+Carrot,121.65
+Cheese,112.8
+Turmeric,214.17
+Broccoli,494.87
+Curd,273.18
+Cabbage,205.16
+Peas,291.48
+Fish,59.93
+Spices Mix,283.35
+Turmeric,433.5
+Oregano,50.68
+Butter,144.2
+Oregano,432.06
+Spinach,462.46
+Cumin,60.19
+Cloves,414.44
+Oil,404.31
+Oregano,399.04
+Beef,448.62
+Beans,186.86
+Bread,376.66
+Broccoli,190.73
+Vinegar,118.01
+Milk,487.74
+Tomato,237.27
+Milk,86.13
+Onion,483.69
+Flour,373.85
+Oregano,292.65
+Beans,218.17
+Tomato Sauce,416.59
+Spinach,171.2
+Carrot,166.39
+Paneer,269.69
+Cheese,470.61
+Spices Mix,194.62
+Salt,272.94
+Turmeric,400.24
+Spinach,79.11
+Cinnamon,207.63
+Fish,417.68
+Onion,201.85
+Ginger,179.12
+Tomato Sauce,149.44
+Cinnamon,305.5
+Egg,243.85
+Parsley,301.29
+Salt,212.2
+Spinach,105.08
+Chicken,235.1
+Coriander,378.51
+Lentils,38.21
+Onion,357.68
+Ginger,248.51
+Carrot,125.38
+Cinnamon,310.12
+Bread,19.68
+Mayonnaise,84.23
+Egg,467.12
+Cauliflower,213.35
+Parsley,316.88
+Tomato,260.81
+Fish,378.89
+Lemon,224.67
+Potato,497.83
+Cloves,278.8
+Cardamom,368.34
+Mushroom,294.82
+Salt,222.4
+Fish,462.0
+Lentils,240.92
+Butter,482.43
+Spices Mix,237.25
+Chili Powder,30.28
+Ginger,141.21
+Coriander,462.41
+Cheese,149.46
+Basil,270.19
+Vinegar,412.5
+Capsicum,10.45
+Milk,56.41
+Ginger,69.55
+Carrot,194.72
+Broccoli,229.18
+Cinnamon,95.59
+Beans,142.14
+Cumin,98.4
+Oil,113.96
+Cauliflower,391.25
+Salt,433.08
+Mustard Seeds,88.77
+Cumin,13.58
+Cauliflower,327.21
+Beans,21.16
+Cabbage,217.86
+Chili Powder,339.29
+Cabbage,88.7
+Cheese,482.81
+Lemon,117.93
+Oil,435.96
+Egg,78.16
+Cumin,288.0
+Parsley,124.39
+Mustard Seeds,108.16
+Cinnamon,242.05
+Butter,357.41
+Cauliflower,341.07
+Potato,54.83
+Sugar,315.06
+Peas,37.7
+Butter,73.85
+Broccoli,16.56
+Broccoli,241.97
+Flour,326.9
+Cheese,201.28
+Garlic,390.46
+Oil,398.7
+Vinegar,240.98
+Butter,402.48
+Capsicum,286.73
+Fish,328.97
+Black Pepper,56.13
+Beans,486.24
+Oil,434.76
+Oregano,305.03
+Mint Leaves,10.46
+Broccoli,118.12
+Sugar,204.54
+Peas,250.71
+Green Chili,145.25
+Lemon,288.52
+Paneer,473.04
+Cardamom,247.59
+Garlic,235.36
+Beans,277.58
+Cinnamon,107.08
+Potato,296.89
+Ginger,261.01
+Chicken,42.62
+Oil,339.2
+Mint Leaves,197.26
+Mushroom,78.69
+Beans,291.24
+Butter,219.9
+Mint Leaves,135.26
+Mayonnaise,171.55
+Mustard Seeds,298.12
+Oil,91.67
+Egg,453.05
+Spices Mix,362.71
+Beef,395.93
+Basil,358.27
+Rice,39.28
+Turmeric,173.4
+Mustard Seeds,289.42
+Chicken,247.77
+Mint Leaves,134.71
+Bread,201.1
+Lemon,370.73
+Flour,51.26
+Coriander,223.97
+Mint Leaves,104.45
+Salt,230.36
+Curd,131.99
+Cumin,113.99
+Capsicum,260.17
+Flour,48.95
+Tomato,89.28
+Sugar,55.03
+Black Pepper,204.28
+Cabbage,212.46
+Beans,448.76
+Black Pepper,409.46
+Potato,471.02
+Cheese,223.69
+Cauliflower,470.8
+Garlic,102.93
+Rice,96.57
+Cumin,180.6
+Beef,171.29
+Rice,213.73
+Onion,335.47
+Cheese,153.5
+Flour,468.02
+Egg,397.99
+Green Chili,217.17
+Coriander,321.84
+Salt,479.53
+Ginger,466.8
+Chili Powder,201.83
+Coriander,372.94
+Black Pepper,264.37
+Cabbage,323.09
+Cinnamon,139.65
+Oil,199.01
+Tomato,189.95
+Rice,317.85
+Carrot,446.74
+Cheese,113.37
+Chicken,269.26
+Cardamom,275.53
+Potato,494.55
+Broccoli,433.56
+Cauliflower,272.56
+Peas,434.87
+Beef,314.16
+Cumin,293.48
+Spinach,421.6
+Mayonnaise,18.16
+Salt,253.92
+Flour,193.61
+Vinegar,493.35
+Garlic,420.97
+Milk,64.43
+Mint Leaves,231.67
+Peas,79.3
+Potato,356.12
+Coriander,259.9
+Flour,187.66
+Curd,339.47
+Peas,359.03
+Cardamom,65.19
+Garlic,241.24
+Capsicum,466.46
+Butter,226.95
+Tomato,448.42
+Beans,303.85
+Broccoli,116.52
+Lentils,270.18
+Vinegar,316.3
+Vinegar,457.06
+Parsley,486.16
+Butter,411.06
+Salt,42.66
+Cardamom,234.53
+Cloves,125.86
+Potato,396.58
+Chili Powder,471.72
+Bread,263.62
+Carrot,427.43
+Cloves,216.48
+Spinach,172.15
+Cinnamon,81.31
+Black Pepper,444.43
+Butter,58.53
+Mushroom,80.07
+Garlic,365.7
+Oregano,37.25
+Salt,270.12
+Soy Sauce,277.66
+Vinegar,175.31
+Cardamom,472.0
+Lentils,256.91
+Cinnamon,112.83
+Ginger,480.84
+Basil,93.75
+Sugar,83.98
+Cheese,288.31
+Garlic,275.59
+Peas,469.12
+Tomato,32.79
+Beef,355.48
+Tomato Sauce,176.85
+Cauliflower,51.83
+Curd,256.81
+Mushroom,263.15
+Black Pepper,117.27
+Fish,217.86
+Lemon,419.12
+Fish,112.07
+Cabbage,144.45
+Egg,491.63
+Capsicum,204.69
+Ginger,77.54
+Spinach,344.11
+Paneer,437.02
+Broccoli,220.9
+Lentils,388.65
+Paneer,325.34
+Cinnamon,358.58
+Onion,497.82
+Capsicum,176.63
+Green Chili,130.72
+Beef,58.41
+Sugar,374.42
+Onion,134.14
+Turmeric,400.21
+Mint Leaves,67.04
+Vinegar,309.08
+Spices Mix,168.34
+Egg,132.67
+Spices Mix,349.12
+Cabbage,435.24
+Mushroom,90.79
+Peas,329.78
+Beans,242.92
+Milk,307.47
+Spices Mix,429.5
+Soy Sauce,113.56
+Potato,168.26
+Coriander,106.36
+Sugar,488.36
+Chicken,210.92
+Cheese,330.44
+Spices Mix,51.52
+Onion,269.69
+Chicken,331.62
+Chicken,154.91
+Mint Leaves,384.17
+Lemon,63.91
+Cinnamon,52.89
+Ginger,215.59
+Flour,44.46
+Salt,342.8
+Sugar,73.31
+Lemon,46.84
+Sugar,199.81
+Turmeric,240.18
+Capsicum,241.54
+Cloves,230.09
+Cardamom,398.55
+Garlic,420.08
+Onion,316.99
+Salt,84.45
+Spinach,489.52
+Chicken,402.33
+Tomato,303.69
+Mint Leaves,277.95
+Egg,441.3
+Beans,434.41
+Broccoli,103.72
+Coriander,437.61
+Chili Powder,32.01
+Beans,208.43
+Sugar,34.79
+Salt,73.48
+Curd,446.56
+Lentils,127.87
+Parsley,389.19
+Black Pepper,422.15
+Onion,82.08
+Cinnamon,466.47
+Turmeric,21.7
+Capsicum,335.44
+Cheese,167.49
+Cheese,99.6
+Black Pepper,158.45
+Mint Leaves,282.89
+Salt,365.7
+Mayonnaise,479.3
+Rice,110.24
+Broccoli,41.16
+Cloves,182.52
+Chicken,298.38
+Bread,354.08
+Rice,100.1
+Curd,377.08
+Vinegar,348.64
+Cardamom,169.73
+Mayonnaise,48.94
+Cheese,141.42
+Oregano,272.25
+Salt,457.11
+Beans,167.09
+Spinach,346.97
+Mustard Seeds,54.03
+Garlic,495.96
+Cloves,281.3
+Tomato Sauce,380.53
+Mushroom,234.03
+Green Chili,130.43
+Oregano,31.8
+Lemon,400.52
+Turmeric,202.18
+Ginger,83.95
+Cheese,317.82
+Coriander,128.04
+Oregano,402.51
+Egg,290.36
+Oil,94.05
+Mint Leaves,146.54
+Spices Mix,225.14
+Flour,133.7
+Cumin,377.71
+Milk,470.38
+Cardamom,141.22
+Garlic,111.02
+Ginger,61.87
+Turmeric,226.16
+Cloves,102.72
+Spinach,167.66
+Salt,285.07
+Cabbage,15.29
+Cauliflower,324.38
+Potato,306.88
+Broccoli,317.49
+Beans,341.1
+Spices Mix,126.91
+Carrot,82.48
+Cardamom,108.59
+Fish,93.63
+Oregano,12.56
+Vinegar,261.04
+Ginger,128.27
+Paneer,428.34
+Cardamom,100.52
+Oregano,264.91
+Black Pepper,465.1
+Flour,255.76
+Beef,68.82
+Coriander,199.44
+Broccoli,73.76
+Tomato Sauce,267.4
+Garlic,17.04
+Cardamom,357.95
+Mushroom,141.71
+Carrot,405.68
+Cinnamon,387.74
+Chicken,62.74
+Capsicum,33.23
+Tomato,109.15
+Flour,454.2
+Cabbage,192.88
+Beans,267.13
+Lemon,110.19
+Potato,279.64
+Butter,17.54
+Oil,173.19
+Beef,155.71
+Soy Sauce,311.82
+Fish,176.6
+Garlic,83.26
+Green Chili,355.14
+Milk,67.07
+Flour,223.35
+Mint Leaves,445.81
+Cumin,386.51
+Paneer,347.8
+Broccoli,337.12
+Sugar,53.02
+Carrot,475.89
+Spices Mix,228.42
+Milk,315.86
+Fish,72.64
+Egg,489.15
+Black Pepper,334.67
+Broccoli,42.97
+Soy Sauce,105.82
+Coriander,83.0
+Fish,442.96
+Fish,305.7
+Lentils,30.02
+Mint Leaves,332.5
+Peas,168.82
+Mint Leaves,59.24
+Oil,341.6
+Oil,214.36
+Oil,61.4
+Mint Leaves,286.52
+Vinegar,482.96
+Soy Sauce,20.49
+Mustard Seeds,381.14
+Beans,241.46
+Mayonnaise,360.74
+Parsley,147.64
+Cloves,102.86
+Mustard Seeds,378.56
+Cardamom,474.71
+Green Chili,126.66
+Soy Sauce,20.64
+Mustard Seeds,70.79
+Chili Powder,490.62
+Cinnamon,226.18
+Beans,425.88
+Tomato Sauce,412.67
+Onion,59.27
+Mayonnaise,397.47
+Soy Sauce,46.55
+Mustard Seeds,406.02
+Basil,449.01
+Cheese,76.79
+Cinnamon,185.82
+Parsley,104.09
+Spices Mix,365.38
+Tomato Sauce,283.7
+Spinach,369.95
+Cardamom,228.25
+Butter,279.04
+Peas,95.26
+Beef,448.2
+Oil,487.96
+Cloves,365.11
+Mint Leaves,106.1
+Beans,44.81
+Curd,245.65
+Cauliflower,259.15
+Tomato,209.76
+Coriander,455.95
+Lentils,127.69
+Turmeric,129.42
+Carrot,458.18
+Cabbage,49.29
+Curd,185.48
+Rice,441.24
+Spinach,374.19
+Cabbage,229.65
+Chicken,353.7
+Bread,292.61
+Onion,326.26
+Lentils,160.65
+Mushroom,155.29
+Cabbage,152.71
+Mint Leaves,146.32
+Green Chili,432.28
+Broccoli,296.69
+Broccoli,244.13
+Sugar,440.86
+Cardamom,414.54
+Bread,120.66
+Cumin,335.83
+Lemon,285.63
+Carrot,192.26
+Garlic,487.4
+Spinach,353.54
+Chili Powder,497.17
+Paneer,320.15
+Cheese,345.02
+Cheese,258.97
+Mint Leaves,33.21
+Rice,117.35
+Black Pepper,269.36
+Soy Sauce,121.01
+Milk,240.56
+Soy Sauce,240.52
+Tomato Sauce,224.87
+Cardamom,115.25
+Chili Powder,431.61
+Egg,335.13
+Soy Sauce,139.38
+Cauliflower,79.07
+Potato,133.56
+Peas,387.48
+Cumin,386.0
+Cheese,62.53
+Broccoli,192.87
+Paneer,230.04
+Cabbage,71.6
+Chicken,425.82
+Rice,134.18
+Tomato Sauce,159.57
+Paneer,23.43
+Oil,396.24
+Potato,246.59
+Ginger,456.74
+Paneer,75.3
+Spinach,301.55
+Spinach,29.01
+Coriander,209.27
+Cauliflower,105.25
+Coriander,101.18
+Spices Mix,67.04
+Salt,491.39
+Cumin,391.67
+Tomato Sauce,360.5
+Rice,375.9
+Paneer,483.49
+Coriander,387.11
+Oil,412.57
+Salt,233.67
+Cheese,134.09
+Black Pepper,63.43
+Spices Mix,334.53
+Mint Leaves,243.06
+Fish,476.45
+Chili Powder,124.54
+Egg,194.37
+Carrot,130.86
+Green Chili,224.44
+Egg,362.26
+Green Chili,21.38
+Mushroom,40.17
+Basil,445.13
+Cauliflower,293.85
+Oregano,436.57
+Green Chili,485.87
+Bread,430.52
+Tomato,381.19
+Garlic,193.92
+Coriander,409.81
+Chicken,288.33
+Vinegar,261.43
+Potato,348.57
+Lemon,97.34
+Cloves,330.9
+Beans,33.35
+Cauliflower,354.86
+Cabbage,467.27
+Vinegar,195.59
+Soy Sauce,477.09
+Potato,405.48
+Cinnamon,398.61
+Black Pepper,144.77
+Chili Powder,416.71
+Carrot,354.77
+Basil,273.5
+Carrot,184.2
+Basil,72.93
+Black Pepper,375.12
+Coriander,174.5
+Lemon,287.88
+Cloves,290.87
+Soy Sauce,147.27
+Basil,321.88
+Curd,45.41
+Mushroom,44.51
+Chicken,141.89
+Coriander,117.97
+Cauliflower,407.49
+Potato,180.47
+Capsicum,61.68
+Mustard Seeds,480.39
+Garlic,462.92
+Spinach,207.35
+Milk,21.43
+Black Pepper,311.2
+Oregano,362.25
+Mustard Seeds,148.27
+Mayonnaise,476.34
+Spinach,476.84
+Rice,242.76
+Tomato Sauce,347.79
+Sugar,181.87
+Onion,246.33
+Garlic,177.51
+Capsicum,210.38
+Parsley,332.39
+Bread,194.63
+Tomato Sauce,195.58
+Soy Sauce,205.79
+Carrot,350.3
+Green Chili,400.02
+Cheese,481.24
+Onion,140.66
+Potato,202.24
+Coriander,363.43
+Butter,191.05
+Lemon,217.32
+Mushroom,119.97
+Flour,270.12
+Lentils,483.14
+Egg,128.32
+Carrot,487.81
+Coriander,106.31
+Milk,146.29
+Cheese,321.22
+Paneer,62.17
+Mint Leaves,134.93
+Cabbage,210.53
+Mushroom,63.65
+Spinach,181.66
+Oregano,321.84
+Mushroom,179.69
+Chicken,204.08
+Cloves,455.22
+Mayonnaise,194.22
+Vinegar,376.34
+Cauliflower,52.21
+Vinegar,418.92
+Salt,169.22
+Chicken,316.71
+Beans,116.68
+Mustard Seeds,218.51
+Cloves,496.92
+Flour,162.36
+Cauliflower,213.86
+Cauliflower,55.1
+Ginger,13.71
+Spinach,159.51
+Oil,179.24
+Curd,393.99
+Capsicum,450.67
+Garlic,37.43
+Onion,439.38
+Mint Leaves,35.79
+Fish,91.04
+Flour,463.26
+Cabbage,346.83
+Potato,473.01
+Fish,358.42
+Cinnamon,316.73
+Onion,477.07
+Beef,315.81
+Mustard Seeds,93.99
+Cardamom,158.26
+Peas,237.11
+Cabbage,74.32
+Cinnamon,132.17
+Tomato Sauce,443.21
+Curd,299.57
+Tomato,483.61
+Soy Sauce,357.48
+Capsicum,422.42
+Butter,428.74
+Cheese,443.52
+Fish,170.22
+Paneer,200.24
+Black Pepper,145.98
+Cinnamon,135.9
+Beef,467.99
+Cloves,82.31
+Cloves,20.51
+Cloves,164.06
+Beef,408.89
+Paneer,259.62
+Oil,442.11
+Potato,456.87
+Sugar,172.77
+Soy Sauce,403.04
+Curd,380.96
+Cabbage,156.68
+Cheese,432.33
+Broccoli,334.28
+Salt,195.83
+Green Chili,354.45
+Paneer,199.16
+Cloves,28.66
+Oregano,202.09
+Paneer,240.7
+Cauliflower,53.84
+Milk,77.75
+Vinegar,187.72
+Egg,16.25
+Vinegar,70.81
+Potato,161.47
+Broccoli,124.72
+Potato,119.43
+Broccoli,171.28
+Soy Sauce,176.12
+Turmeric,447.38
+Capsicum,272.12
+Paneer,306.44
+Cloves,486.74
+Bread,480.84
+Sugar,298.18
+Milk,376.62
+Rice,369.64
+Salt,206.88
+Cardamom,431.71
+Peas,40.11
+Parsley,269.04
+Cheese,163.42
+Milk,371.1
+Turmeric,235.99
+Chicken,121.21
+Potato,365.96
+Vinegar,372.68
+Vinegar,250.21
+Oregano,222.98
+Mushroom,419.88
+Lentils,483.19
+Black Pepper,207.49
+Spices Mix,290.5
+Oregano,320.73
+Capsicum,361.21
+Broccoli,163.37
+Mayonnaise,220.32
+Spinach,216.56
+Beans,217.63
+Parsley,90.68
+Black Pepper,493.72
+Vinegar,406.13
+Potato,36.14
+Carrot,246.39
+Mint Leaves,55.23
+Paneer,201.85
+Coriander,334.15
+Tomato Sauce,113.06
+Carrot,34.28
+Vinegar,424.5
+Turmeric,374.39
+Mayonnaise,416.15
+Chicken,219.65
+Chili Powder,74.28
+Cheese,322.66
+Basil,262.5
+Cauliflower,293.51
+Onion,360.24
+Rice,425.5
+Basil,259.31
+Lemon,371.99
+Mustard Seeds,256.25
+Spices Mix,373.69
+Vinegar,163.42
+Cumin,154.46
+Mint Leaves,479.86
+Cheese,493.0
+Sugar,371.86
+Broccoli,181.96
+Black Pepper,121.82
+Coriander,478.97
+Mushroom,372.64
+Cinnamon,428.61
+Egg,216.32
+Vinegar,481.06
+Fish,208.98
+Salt,168.47
+Bread,117.3
+Egg,248.76
+Paneer,202.55
+Spinach,404.31
+Salt,161.55
+Oregano,151.62
+Flour,351.57
+Mustard Seeds,25.85
+Mushroom,366.03
+Black Pepper,57.06
+Ginger,449.55
+Mushroom,43.72
+Mayonnaise,452.31
+Coriander,226.67
+Ginger,250.19
+Flour,215.02
+Tomato Sauce,360.54
+Chicken,432.46
+Mint Leaves,107.52
+Chicken,283.95
+Curd,224.24
+Mustard Seeds,327.79
+Onion,127.05
+Lentils,53.29
+Lemon,451.61
+Tomato,71.09
+Paneer,479.91
+Oregano,371.17
+Beef,134.68
+Cardamom,388.57
+Oil,263.5
+Mint Leaves,84.92
+Egg,287.51
+Green Chili,68.12
+Bread,412.95
+Turmeric,375.37
+Fish,366.34
+Broccoli,145.8
+Spices Mix,434.37
+Mushroom,317.65
+Egg,473.34
+Lentils,465.82
+Soy Sauce,153.67
+Spinach,14.37
+Peas,442.13
+Rice,46.99
+Ginger,100.05
+Vinegar,471.2
+Beans,326.4
+Lentils,178.05
+Fish,25.68
+Chicken,124.73
+Mint Leaves,348.02
+Cheese,428.98
+Cardamom,142.59
+Soy Sauce,343.86
+Flour,35.43
+Coriander,126.4
+Spices Mix,382.4
+Peas,497.89
+Coriander,396.26
+Capsicum,411.89
+Chicken,24.55
+Turmeric,298.93
+Basil,22.18
+Potato,265.51
+Oregano,171.07
+Mushroom,490.02
+Potato,478.0
+Mayonnaise,96.93
+Cinnamon,277.07
+Peas,116.3
+Cheese,32.25
+Spinach,382.23
+Turmeric,228.18
+Potato,390.43
+Salt,124.91
+Parsley,216.71
+Cumin,336.62
+Cinnamon,425.22
+Turmeric,70.16
+Sugar,290.64
+Paneer,456.87
+Garlic,125.68
+Milk,446.64
+Peas,120.5
+Milk,44.78
+Butter,366.93
+Spices Mix,459.48
+Lentils,316.64
+Potato,390.75
+Butter,353.35
+Bread,24.16
+Black Pepper,44.69
+Paneer,487.32
+Salt,327.97
+Salt,411.24
+Mustard Seeds,139.9
+Fish,133.13
+Cheese,320.3
+Fish,128.93
+Fish,130.0
+Soy Sauce,174.13
+Broccoli,49.82
+Mint Leaves,68.72
+Cabbage,310.88
+Cheese,129.56
+Capsicum,316.71
+Vinegar,161.16
+Lentils,30.96
+Paneer,400.11
+Paneer,382.31
+Vinegar,411.51
+Turmeric,457.92
+Cardamom,116.42
+Black Pepper,161.01
+Flour,117.97
+Black Pepper,367.62
+Spices Mix,102.96
+Beans,60.14
+Spices Mix,61.42
+Cauliflower,450.16
+Salt,63.62
+Parsley,86.96
+Potato,443.34
+Spices Mix,186.58
+Green Chili,334.38
+Green Chili,167.03
+Mint Leaves,116.89
+Soy Sauce,282.4
+Egg,45.04
+Lemon,204.64
+Coriander,281.53
+Ginger,261.11
+Cauliflower,433.15
+Turmeric,253.3
+Curd,495.09
+Cabbage,425.36
+Egg,194.91
+Cardamom,37.91
+Broccoli,180.39
+Cabbage,298.1
+Cauliflower,400.74
+Egg,353.39
+Oil,302.25
+Salt,427.5
+Garlic,63.62
+Chicken,392.1
+Vinegar,261.68
+Basil,63.0
+Cabbage,297.04
+Lemon,123.03
+Parsley,134.54
+Carrot,463.56
+Egg,469.83
+Mint Leaves,190.65
+Salt,250.34
+Beans,105.6
+Oil,376.47
+Rice,142.71
+Green Chili,96.2
+Flour,477.14
+Mint Leaves,470.31
+Cinnamon,279.58
+Milk,136.08
+Black Pepper,428.43
+Broccoli,55.93
+Salt,42.85
+Beef,262.97
+Fish,48.79
+Beans,289.94
+Potato,455.06
+Oregano,305.19
+Broccoli,113.23
+Onion,41.49
+Green Chili,50.04
+Oregano,11.93
+Chili Powder,347.99
+Cumin,289.47
+Coriander,155.03
+Milk,149.8
+Beans,450.59
+Cinnamon,369.11
+Egg,308.8
+Capsicum,492.75
+Cardamom,222.18
+Mushroom,369.29
+Carrot,367.01
+Broccoli,452.08
+Oil,69.76
+Black Pepper,361.63
+Parsley,225.92
+Cinnamon,396.22
+Tomato Sauce,158.36
+Cauliflower,484.0
+Carrot,99.09
+Mayonnaise,203.62
+Cinnamon,28.37
+Spinach,66.93
+Turmeric,386.92
+Paneer,486.62
+Butter,394.14
+Flour,274.29
+Garlic,489.64
+Chili Powder,58.15
+Soy Sauce,297.73
+Mustard Seeds,94.76
+Peas,237.49
+Cauliflower,464.42
+Cinnamon,411.64
+Cinnamon,403.59
+Beef,27.2
+Coriander,494.94
+Garlic,260.24
+Cloves,463.78
+Beans,499.01
+Cabbage,298.01
+Garlic,365.27
+Onion,292.39
+Broccoli,232.35
+Coriander,92.06
+Potato,440.61
+Beef,237.6
+Rice,189.51
+Salt,388.42
+Spinach,206.18
+Cauliflower,63.68
+Cinnamon,270.6
+Basil,179.63
+Soy Sauce,187.84
+Mustard Seeds,408.42
+Fish,256.2
+Cloves,34.67
+Mushroom,311.04
+Basil,441.04
+Tomato,51.3
+Vinegar,377.17
+Flour,382.05
+Cumin,11.11
+Mint Leaves,46.49
+Cheese,264.71
+Paneer,136.17
+Cabbage,453.52
+Spinach,187.21
+Butter,45.44
+Cloves,458.7
+Cauliflower,475.61
+Paneer,270.74
+Chili Powder,70.99
+Cauliflower,142.99
+Paneer,401.47
+Potato,311.54
+Cheese,238.34
+Ginger,295.83
+Green Chili,445.65
+Salt,84.42
+Capsicum,182.5
+Cabbage,128.08
+Cabbage,15.82
+Flour,188.19
+Chili Powder,227.22
+Mayonnaise,323.66
+Turmeric,325.49
+Rice,406.45
+Fish,398.73
+Broccoli,320.06
+Fish,179.27
+Tomato,389.51
+Mint Leaves,420.52
+Black Pepper,454.77
+Lentils,336.94
+Butter,350.57
+Flour,131.54
+Cabbage,252.94
+Bread,85.57
+Carrot,20.57
+Chili Powder,135.16
+Spices Mix,397.93
+Beef,139.76
+Cinnamon,36.86
+Coriander,371.86
+Vinegar,395.95
+Chili Powder,392.02
+Vinegar,235.15
+Turmeric,287.77
+Onion,178.08
+Chicken,47.97
+Cumin,92.34
+Beef,66.18
+Cloves,119.11
+Beef,53.89
+Vinegar,335.56
+Coriander,363.11
+Fish,420.69
+Carrot,237.97
+Chili Powder,484.02
+Mushroom,132.21
+Salt,467.63
+Beans,374.3
+Soy Sauce,37.36
+Ginger,33.23
+Oil,279.22
+Mushroom,353.34
+Potato,484.9
+Coriander,445.8
+Butter,352.94
+Chicken,29.65
+Butter,242.23
+Flour,428.05
+Cheese,129.71
+Cauliflower,94.61
+Coriander,200.96
+Curd,77.25
+Rice,484.45
+Bread,381.59
+Spinach,38.63
+Cabbage,164.17
+Tomato,304.09
+Mustard Seeds,14.63
+Carrot,349.81
+Spices Mix,434.08
+Curd,449.23
+Cheese,91.95
+Beans,92.24
+Mayonnaise,216.45
+Cloves,13.74
+Turmeric,331.03
+Soy Sauce,284.59
+Sugar,294.67
+Fish,375.6
+Cinnamon,78.73
+Salt,56.28
+Tomato Sauce,195.2
+Mint Leaves,416.1
+Salt,415.09
+Curd,242.78
+Cloves,378.81
+Beef,292.97
+Spices Mix,138.29
+Coriander,242.83
+Capsicum,307.78
+Coriander,144.98
+Milk,79.61
+Mustard Seeds,146.23
+Capsicum,82.76
+Mint Leaves,204.96
+Ginger,160.6
+Rice,371.66
+Oregano,198.68
+Milk,85.75
+Milk,359.46
+Peas,361.65
+Cardamom,51.11
+Sugar,112.82
+Carrot,290.54
+Capsicum,431.75
+Sugar,52.34
+Oil,84.05
+Ginger,92.08
+Cardamom,93.74
+Sugar,264.22
+Capsicum,29.64
+Potato,480.52
+Mint Leaves,450.28
+Rice,322.64
+Beans,87.92
+Broccoli,167.51
+Cauliflower,495.95
+Cauliflower,151.91
+Capsicum,387.83
+Oregano,10.2
+Mayonnaise,490.54
+Garlic,228.19
+Carrot,232.21
+Ginger,197.97
+Green Chili,486.1
+Salt,481.99
+Chicken,246.92
+Mustard Seeds,450.39
+Parsley,132.61
+Beans,51.51
+Mayonnaise,262.64
+Beans,355.09
+Cauliflower,421.48
+Beef,60.43
+Oregano,493.62
+Soy Sauce,387.24
+Mint Leaves,132.49
+Cloves,471.26
+Milk,413.56
+Sugar,190.27
+Fish,364.58
+Black Pepper,439.29
+Cauliflower,234.79
+Cinnamon,148.62
+Tomato Sauce,374.34
+Turmeric,413.89
+Green Chili,157.75
+Mushroom,221.11
+Flour,49.38
+Lentils,23.1
+Lemon,195.25
+Lemon,156.6
+Paneer,498.93
+Sugar,496.73
+Lemon,400.8
+Milk,492.23
+Chili Powder,231.49
+Turmeric,16.06
+Paneer,491.73
+Ginger,427.59
+Mint Leaves,374.09
+Bread,77.31
+Spices Mix,207.38
+Ginger,352.18
+Fish,256.28
+Cabbage,49.73
+Cauliflower,170.36
+Cumin,224.27
+Vinegar,95.16
+Onion,354.65
+Sugar,222.08
+Carrot,372.81
+Beef,209.7
+Green Chili,475.24
+Onion,75.56
+Cloves,238.05
+Rice,462.8
+Tomato Sauce,54.86
+Spinach,212.64
+Cardamom,243.82
+Cardamom,275.07
+Mustard Seeds,130.51
+Broccoli,449.0
+Mushroom,271.18
+Cinnamon,421.28
+Lemon,132.23
+Cloves,299.75
+Green Chili,442.57
+Cheese,133.66
+Salt,108.81
+Rice,151.02
+Carrot,258.19
+Salt,81.38
+Spinach,283.98
+Capsicum,367.34
+Milk,90.39
+Sugar,233.51
+Parsley,260.54
+Salt,179.76
+Ginger,49.65
+Chicken,100.21
+Milk,233.58
+Peas,444.43
+Parsley,313.6
+Coriander,402.24
+Vinegar,38.89
+Broccoli,73.43
+Cheese,102.22
+Spices Mix,119.24
+Spices Mix,159.42
+Flour,362.52
+Spinach,429.37
+Parsley,136.16
+Chicken,65.38
+Onion,78.8
+Broccoli,68.62
+Chili Powder,162.76
+Cardamom,403.52
+Vinegar,262.89
+Butter,82.41
+Sugar,282.03
+Mustard Seeds,376.08
+Milk,336.11
+Mayonnaise,138.08
+Vinegar,200.21
+Chili Powder,52.11
+Chicken,162.73
+Cabbage,193.28
+Ginger,333.53
+Salt,435.82
+Mint Leaves,334.39
+Egg,199.76
+Egg,231.78
+Tomato Sauce,61.88
+Spices Mix,468.52
+Ginger,249.96
+Cinnamon,395.33
+Salt,282.45
+Soy Sauce,381.65
+Flour,132.24
+Egg,468.26
+Rice,309.99
+Vinegar,449.8
+Soy Sauce,374.98
+Oregano,277.88
+Mayonnaise,397.58
+Peas,220.12
+Oil,444.01
+Turmeric,56.12
+Egg,437.96
+Butter,170.04
+Cloves,208.0
+Onion,327.03
+Mushroom,47.35
+Milk,89.78
+Ginger,240.47
+Egg,223.45
+Chili Powder,52.63
+Egg,449.51
+Black Pepper,63.0
+Lemon,408.02
+Onion,201.09
+Egg,209.39
+Turmeric,187.57
+Milk,83.36
+Beans,73.57
+Tomato Sauce,349.84
+Beans,134.15
+Salt,184.24
+Capsicum,479.77
+Coriander,113.9
+Ginger,207.39
+Mustard Seeds,115.95
+Rice,444.54
+Mint Leaves,454.19
+Oregano,176.94
+Chicken,194.68
+Cabbage,68.62
+Beans,469.62
+Spinach,127.94
+Black Pepper,305.19
+Milk,259.05
+Lentils,103.99
+Chili Powder,412.46
+Flour,53.08
+Beans,303.37
+Flour,106.53
+Cloves,359.19
+Butter,192.43
+Mustard Seeds,25.33
+Chicken,332.68
+Garlic,481.85
+Curd,483.77
+Cheese,25.18
+Oregano,255.05
+Tomato Sauce,283.4
+Cumin,331.98
+Oil,331.39
+Curd,494.71
+Cabbage,80.7
+Mustard Seeds,275.02
+Cardamom,270.86
+Spices Mix,129.76
+Onion,216.86
+Cinnamon,283.24
+Cinnamon,460.71
+Oil,164.17
+Black Pepper,330.72
+Mushroom,435.13
+Mustard Seeds,393.91
+Carrot,404.01
+Egg,71.24
+Butter,486.72
+Mint Leaves,265.07
+Ginger,422.69
+Broccoli,141.49
+Sugar,87.83
+Flour,375.72
+Egg,155.35
+Turmeric,404.28
+Rice,222.98
+Butter,292.39
+Salt,229.1
+Mayonnaise,126.79
+Beef,262.15
+Sugar,114.46
+Chili Powder,440.0
+Lemon,428.75
+Capsicum,384.5
+Mint Leaves,146.86
+Oregano,440.99
+Paneer,405.03
+Vinegar,322.31
+Lentils,172.27
+Salt,388.31
+Cauliflower,303.94
+Mint Leaves,239.25
+Parsley,267.02
+Salt,441.55
+Cauliflower,316.76
+Sugar,98.29
+Rice,323.08
+Cabbage,25.76
+Mayonnaise,405.93
+Bread,444.59
+Tomato Sauce,204.36
+Flour,467.53
+Ginger,210.84
+Mint Leaves,108.32
+Tomato,395.1
+Egg,151.16
+Bread,267.53
+Tomato Sauce,413.53
+Cumin,223.02
+Mint Leaves,95.57
+Butter,239.43
+Butter,136.87
+Green Chili,160.79
+Capsicum,308.93
+Basil,275.04
+Chicken,476.6
+Green Chili,265.89
+Rice,384.72
+Garlic,492.82
+Lemon,59.71
+Onion,100.34
+Flour,236.03
+Egg,23.12
+Bread,262.24
+Fish,445.97
+Beef,291.72
+Chili Powder,268.09
+Fish,372.05
+Cheese,457.35
+Mushroom,358.64
+Cumin,389.98
+Turmeric,486.98
+Spices Mix,66.13
+Bread,365.44
+Vinegar,62.38
+Spices Mix,146.92
+Bread,406.26
+Chili Powder,28.76
+Spices Mix,265.91
+Potato,454.5
+Beef,235.99
+Ginger,146.93
+Oregano,482.16
+Turmeric,380.9
+Mayonnaise,172.64
+Butter,11.78
+Curd,133.3
+Turmeric,11.84
+Lemon,327.44
+Soy Sauce,131.09
+Mint Leaves,69.63
+Beef,389.57
+Butter,230.5
+Curd,16.34
+Cinnamon,381.61
+Peas,421.63
+Cinnamon,395.72
+Beef,56.36
+Cheese,343.18
+Salt,429.8
+Broccoli,331.59
+Cinnamon,133.03
+Milk,481.35
+Bread,51.28
+Flour,187.14
+Sugar,210.04
+Bread,41.29
+Chicken,265.28
+Tomato Sauce,442.98
+Milk,398.03
+Potato,261.39
+Rice,422.28
+Vinegar,359.45
+Cloves,441.52
+Ginger,384.26
+Turmeric,430.56
+Black Pepper,179.41
+Tomato Sauce,410.92
+Onion,86.83
+Ginger,384.66
+Garlic,111.34
+Oil,479.84
+Mayonnaise,480.11
+Spices Mix,34.9
+Milk,365.86
+Cheese,85.05
+Parsley,365.52
+Carrot,183.75
+Vinegar,268.81
+Oil,360.94
+Milk,350.91
+Coriander,271.08
+Turmeric,210.39
+Green Chili,21.65
+Cumin,264.04
+Lentils,436.69
+Spices Mix,202.3
+Butter,329.42
+Garlic,464.11
+Black Pepper,20.94
+Beef,99.67
+Lentils,295.79
+Beans,387.25
+Cumin,373.59
+Onion,157.05
+Parsley,129.48
+Cinnamon,401.37
+Carrot,126.68
+Potato,267.7
+Lentils,219.98
+Spinach,152.93
+Fish,230.18
+Cloves,300.16
+Beans,136.15
+Cardamom,281.06
+Broccoli,156.33
+Black Pepper,236.47
+Coriander,371.81
+Lentils,68.47
+Egg,19.98
+Sugar,233.93
+Ginger,412.46
+Mustard Seeds,250.47
+Green Chili,189.88
+Spices Mix,147.08
+Rice,232.56
+Lentils,353.67
+Tomato,266.95
+Mushroom,346.33
+Basil,441.59
+Spinach,120.17
+Onion,13.71
+Bread,300.85
+Cumin,179.66
+Ginger,384.2
+Green Chili,214.05
+Oregano,348.55
+Carrot,317.89
+Chicken,376.9
+Vinegar,140.36
+Oregano,473.71
+Spices Mix,239.22
+Curd,79.73
+Rice,489.92
+Mushroom,445.2
+Cloves,42.34
+Turmeric,455.98
+Fish,52.44
+Cinnamon,266.66
+Green Chili,45.02
+Garlic,392.24
+Green Chili,259.69
+Egg,302.28
+Turmeric,217.53
+Peas,210.49
+Parsley,244.41
+Chicken,36.45
+Vinegar,349.92
+Beans,328.06
+Cauliflower,228.55
+Mayonnaise,76.5
+Capsicum,169.45
+Peas,391.78
+Carrot,179.45
+Chili Powder,156.73
+Salt,419.24
+Mustard Seeds,282.15
+Lentils,440.99
+Mustard Seeds,50.06
+Sugar,473.22
+Spinach,462.42
+Turmeric,84.2
+Curd,125.56
+Oil,395.64
+Peas,261.27
+Cinnamon,55.38
+Tomato Sauce,296.0
+Lemon,322.53
+Chili Powder,298.39
+Mustard Seeds,473.34
+Parsley,87.82
+Curd,136.0
+Chicken,405.57
+Rice,152.77
+Vinegar,108.93
+Paneer,436.63
+Bread,157.94
+Salt,399.1
+Tomato Sauce,146.01
+Carrot,369.77
+Rice,120.54
+Lentils,467.37
+Rice,427.33

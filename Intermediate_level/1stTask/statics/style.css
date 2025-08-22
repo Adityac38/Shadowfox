@@ -1,0 +1,28 @@
+body {
+  min-height: 100vh;
+  background: radial-gradient(60% 60% at 30% 20%, #111215, #0f1316);
+  color: #eef2f6;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+}
+.glass-card {
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.02));
+  border: 1px solid rgba(255,255,255,0.04);
+  box-shadow: 0 10px 30px rgba(2,6,23,0.6);
+  padding: 22px;
+  border-radius: 14px;
+  color: #f6f8fa;
+}
+h3, h4 {
+  color: #f7f9fb;
+}
+.form-control, .form-select {
+  background: rgba(255,255,255,0.02);
+  border: 1px solid rgba(255,255,255,0.06);
+  color: #fff;
+  border-radius: 8px;
+}
+.btn-success {
+  background: linear-gradient(180deg,#2fb04f,#21963f);
+  border: none;
+  box-shadow: 0 6px 18px rgba(33,150,57,0.15);
+}

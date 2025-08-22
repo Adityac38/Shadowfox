@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}Car Price Prediction{% endblock %}
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-md-8 col-lg-6">
+    <div class="glass-card p-4 shadow-sm">
+      <h3 class="text-center mb-3">🚘Car Price Prediction</h3>
+      <form id="carForm" novalidate>
+        <div class="mb-3">
+          <label class="form-label">Car Name</label>
+          <input name="car_name" class="form-control" placeholder="e.g., Maruti Swift">
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Present Price (in Lakh ₹)</label>
+          <input name="present_price" type="number" step="0.01" class="form-control" required>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">KMS Driven</label>
+          <input name="kms_driven" type="number" class="form-control" required>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Owner</label>
+          <select name="owner" class="form-select">
+            <option>First Owner</option>
+            <option>Second Owner</option>
+            <option>Third Owner</option>
+            <option>Fourth Owner or more</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Year of Purchase</label>
+          <input name="year" type="number" class="form-control">
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Fuel Type</label>
+          <select name="fuel" class="form-select">
+            <option>Petrol</option>
+            <option>Diesel</option>
+            <option>CNG</option>
+            <option>Petrol+CNG</option>
+            <option>Electric</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Seller Type</label>
+          <select name="seller" class="form-select">
+            <option>Dealer</option>
+            <option>Individual</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Transmission</label>
+          <select name="transmission" class="form-select">
+            <option>Manual</option>
+            <option>Automatic</option>
+          </select>
+        </div>
+        <button class="btn btn-success w-100" type="submit">Predict Selling Price</button>
+      </form>
+      <div id="carResult" class="alert alert-info text-center mt-3" style="display:none;"></div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+document.getElementById('carForm').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const data = Object.fromEntries(new FormData(this).entries());
+  try {
+    const res = await fetch('/predict_car', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(data)
+    });
+    const json = await res.json();
+    const box = document.getElementById('carResult');
+    box.style.display = 'block';
+    if (json.prediction) {
+      box.className = 'alert alert-success text-center mt-3';
+      box.textContent = json.prediction;
+    } else {
+      box.className = 'alert alert-danger text-center mt-3';
+      box.textContent = json.error || 'Unknown error';
+    }
+  } catch (err) {
+    const box = document.getElementById('carResult');
+    box.style.display = 'block';
+    box.className = 'alert alert-danger text-center mt-3';
+    box.textContent = err.message || 'Network error';
+  }
+});
+</script>
+{% endblock %}

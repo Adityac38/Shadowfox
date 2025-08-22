@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}Prediction History{% endblock %}
+{% block content %}
+<div class="glass-card p-3">
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h4 class="m-0">Prediction History</h4>
+    <div>
+      <a class="btn btn-success me-2" href="/download_history">Download CSV</a>
+      <button id="clearBtn" class="btn btn-danger">Clear History</button>
+    </div>
+  </div>
+  <div class="table-responsive">
+    <table class="table table-striped table-dark">
+      <thead>
+        <tr>
+          <th>Type</th><th>Name</th><th>Year</th><th>Present Price (₹ Lakh)</th>
+          <th>Kms Driven</th><th>Owner</th><th>Fuel Type</th><th>Seller Type</th>
+          <th>Transmission</th><th>Predicted Price (₹ Lakh)</th><th>Date</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% if records and records|length > 0 %}
+          {% for row in records %}
+          <tr>
+            <td>{{ row['Type'] }}</td>
+            <td>{{ row['Name'] }}</td>
+            <td>{{ row['Year'] }}</td>
+            <td>{{ row['Present Price (₹ Lakh)'] }}</td>
+            <td>{{ row['Kms Driven'] }}</td>
+            <td>{{ row['Owner'] }}</td>
+            <td>{{ row['Fuel Type'] }}</td>
+            <td>{{ row['Seller Type'] }}</td>
+            <td>{{ row['Transmission'] }}</td>
+            <td>{{ row['Predicted Price (₹ Lakh)'] }}</td>
+            <td>{{ row['Date'] }}</td>
+          </tr>
+          {% endfor %}
+        {% else %}
+          <tr><td colspan="11" class="text-center">Nothing in history.</td></tr>
+        {% endif %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+document.getElementById('clearBtn').addEventListener('click', async function() {
+  if (!confirm('Clear all history?')) return;
+  const res = await fetch('/clear_history', { method: 'POST' });
+  const j = await res.json();
+  if (j.ok) location.reload();
+  else alert(j.message || 'Could not clear history');
+});
+</script>
+{% endblock %}
